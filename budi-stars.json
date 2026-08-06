@@ -13,7 +13,7 @@
   {
     "repo": "anomalyco/opencode",
     "url": "https://github.com/anomalyco/opencode",
-    "stars": 193849,
+    "stars": 193850,
     "language": "TypeScript",
     "description": "The open source coding agent.",
     "topics": "",
@@ -134,7 +134,7 @@
   {
     "repo": "addyosmani/agent-skills",
     "url": "https://github.com/addyosmani/agent-skills",
-    "stars": 82013,
+    "stars": 82014,
     "language": "JavaScript",
     "description": "Production-grade engineering skills for AI coding agents.",
     "topics": "agent-skills, antigravity, claude-code, codex, cursor, skills",
@@ -277,7 +277,7 @@
   {
     "repo": "diegosouzapw/OmniRoute",
     "url": "https://github.com/diegosouzapw/OmniRoute",
-    "stars": 40803,
+    "stars": 40805,
     "language": "TypeScript",
     "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models \u2014 Kimi, Claude, GPT, OpenAI",
     "topics": "a2a, ai-agents, ai-gateway, anthropic, claude, claude-code, cline, codex, copilot, cursor, deepseek, free-ai, gemini, kimi, llm-gateway, mcp, openai, openai-proxy, qwen, token-saver",

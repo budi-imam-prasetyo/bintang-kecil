@@ -11,11 +11,11 @@
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 226,096 | Python | The agent that grows with you |
 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 113,854 | Python | An AI SKILL that provide design intelligence for building professional UI/UX mul |
 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 83,980 | TypeScript | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 82,013 | JavaScript | Production-grade engineering skills for AI coding agents. |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 82,014 | JavaScript | Production-grade engineering skills for AI coding agents. |
 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 79,146 | TypeScript | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic |
 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 65,056 | Python | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20 |
 | [tldraw/tldraw](https://github.com/tldraw/tldraw) | 49,618 | TypeScript | Build infinite canvas apps in React with the tldraw SDK. World's best, top-most  |
-| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 40,803 | TypeScript | Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), |
+| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 40,805 | TypeScript | Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), |
 | [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) | 36,007 | TypeScript | Vane is an AI-powered answering engine. |
 | [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) | 30,531 | TypeScript | runs anywhere. uses anything |
 | [decolua/9router](https://github.com/decolua/9router) | 24,747 | JavaScript | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, An |
@@ -179,7 +179,7 @@
 
 | Repository | ⭐ | Language | Description |
 |---|---:|---|---|
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 193,849 | TypeScript | The open source coding agent. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 193,850 | TypeScript | The open source coding agent. |
 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 131,161 | HTML | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo |
 | [slidevjs/slidev](https://github.com/slidevjs/slidev) | 47,972 | TypeScript | Presentation Slides for Developers |
 | [wailsapp/wails](https://github.com/wailsapp/wails) | 35,704 | Go | Create beautiful applications using Go |

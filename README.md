@@ -8,11 +8,11 @@
 
 | Repository | ⭐ | Language | Description |
 |---|---:|---|---|
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 226,095 | Python | The agent that grows with you |
-| [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 113,852 | Python | An AI SKILL that provide design intelligence for building professional UI/UX mul |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 226,096 | Python | The agent that grows with you |
+| [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 113,854 | Python | An AI SKILL that provide design intelligence for building professional UI/UX mul |
 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 83,980 | TypeScript | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 82,012 | JavaScript | Production-grade engineering skills for AI coding agents. |
-| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 79,145 | TypeScript | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 82,013 | JavaScript | Production-grade engineering skills for AI coding agents. |
+| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 79,146 | TypeScript | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic |
 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 65,056 | Python | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20 |
 | [tldraw/tldraw](https://github.com/tldraw/tldraw) | 49,618 | TypeScript | Build infinite canvas apps in React with the tldraw SDK. World's best, top-most  |
 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 40,803 | TypeScript | Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), |
@@ -35,7 +35,7 @@
 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 95,739 | Python | real time face swap and one-click video deepfake with only a single image |
 | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 89,057 | Jupyter Notebook | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all |
 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 70,040 | Python | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能 |
-| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 62,134 | Jupyter Notebook | 12 Weeks, 24 Lessons, AI for All! |
+| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 62,135 | Jupyter Notebook | 12 Weeks, 24 Lessons, AI for All! |
 | [janhq/jan](https://github.com/janhq/jan) | 43,866 | TypeScript | Jan is an open source alternative to ChatGPT that runs 100% offline on your comp |
 | [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | 31,154 | Rust | Hundreds of models & providers. One command to find what runs on your hardware. |
 | [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 21,112 | TypeScript | Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt |
@@ -109,7 +109,7 @@
 |---|---:|---|---|
 | [strapi/strapi](https://github.com/strapi/strapi) | 72,804 | TypeScript | 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScrip |
 | [tw93/Pake](https://github.com/tw93/Pake) | 60,474 | Rust | 🤱🏻 Turn any webpage into a desktop app with one command. |
-| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | 33,510 | Zig | Lightpanda: the headless browser designed for AI and automation |
+| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | 33,509 | Zig | Lightpanda: the headless browser designed for AI and automation |
 | [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) | 20,368 | TypeScript | Create polished demo videos without editing skills. Mac/Windows/Linux |
 | [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) | 12,645 | TypeScript | Build ultra fast, tiny, and cross-platform desktop apps with Typescript. |
 | [Suwayomi/Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) | 7,402 | Java | A rewrite of Tachiyomi for the Desktop |
@@ -230,5 +230,5 @@
 | Total starred | 150 |
 | Top language | TypeScript (42 repos) |
 | Runner-up | Kotlin (19), Rust (15) |
-| Most starred | NousResearch/hermes-agent (226,095 ⭐) |
+| Most starred | NousResearch/hermes-agent (226,096 ⭐) |
 | Own repos starred | 2 |

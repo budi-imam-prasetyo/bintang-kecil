@@ -2,7 +2,7 @@
   {
     "repo": "NousResearch/hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "stars": 226095,
+    "stars": 226096,
     "language": "Python",
     "description": "The agent that grows with you",
     "topics": "ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, clawdbot, codex, hermes, hermes-agent, llm, moltbot, nous-research, openai, openclaw",
@@ -46,12 +46,12 @@
   {
     "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
     "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-    "stars": 113852,
+    "stars": 113854,
     "language": "Python",
     "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
     "topics": "ai-skills, antigravity, claude, claude-code, codex, command-line, copilot, cursor-ai, html5, kiro, landing-page, mobile-ui, qoder, react, tailwindcss, trae, ui-design, uikit, windsurf-ai",
     "created": "2025-11-30",
-    "forks": 12180,
+    "forks": 12181,
     "license": "MIT"
   },
   {
@@ -134,7 +134,7 @@
   {
     "repo": "addyosmani/agent-skills",
     "url": "https://github.com/addyosmani/agent-skills",
-    "stars": 82012,
+    "stars": 82013,
     "language": "JavaScript",
     "description": "Production-grade engineering skills for AI coding agents.",
     "topics": "agent-skills, antigravity, claude-code, codex, cursor, skills",
@@ -145,7 +145,7 @@
   {
     "repo": "koala73/worldmonitor",
     "url": "https://github.com/koala73/worldmonitor",
-    "stars": 79145,
+    "stars": 79146,
     "language": "TypeScript",
     "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracki",
     "topics": "agent, ai, dashboard, geopolitics, mcp, mcp-server, monitoring, news, opensource, osint, palantir, situation",
@@ -200,7 +200,7 @@
   {
     "repo": "microsoft/AI-For-Beginners",
     "url": "https://github.com/microsoft/AI-For-Beginners",
-    "stars": 62134,
+    "stars": 62135,
     "language": "Jupyter Notebook",
     "description": "12 Weeks, 24 Lessons, AI for All!",
     "topics": "ai, artificial-intelligence, cnn, computer-vision, deep-learning, gan, machine-learning, microsoft-for-beginners, nlp, rnn",
@@ -343,7 +343,7 @@
   {
     "repo": "lightpanda-io/browser",
     "url": "https://github.com/lightpanda-io/browser",
-    "stars": 33510,
+    "stars": 33509,
     "language": "Zig",
     "description": "Lightpanda: the headless browser designed for AI and automation",
     "topics": "browser, browser-automation, cdp, headless, lightpanda, playwright, puppeteer, zig",

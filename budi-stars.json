@@ -2,23 +2,23 @@
   {
     "repo": "NousResearch/hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "stars": 226094,
+    "stars": 226095,
     "language": "Python",
     "description": "The agent that grows with you",
     "topics": "ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, clawdbot, codex, hermes, hermes-agent, llm, moltbot, nous-research, openai, openclaw",
     "created": "2025-07-22",
-    "forks": 44013,
+    "forks": 44015,
     "license": "MIT"
   },
   {
     "repo": "anomalyco/opencode",
     "url": "https://github.com/anomalyco/opencode",
-    "stars": 193847,
+    "stars": 193849,
     "language": "TypeScript",
     "description": "The open source coding agent.",
     "topics": "",
     "created": "2025-04-30",
-    "forks": 24796,
+    "forks": 24795,
     "license": "MIT"
   },
   {
@@ -46,7 +46,7 @@
   {
     "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
     "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-    "stars": 113850,
+    "stars": 113852,
     "language": "Python",
     "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
     "topics": "ai-skills, antigravity, claude, claude-code, codex, command-line, copilot, cursor-ai, html5, kiro, landing-page, mobile-ui, qoder, react, tailwindcss, trae, ui-design, uikit, windsurf-ai",
@@ -57,7 +57,7 @@
   {
     "repo": "VoltAgent/awesome-design-md",
     "url": "https://github.com/VoltAgent/awesome-design-md",
-    "stars": 106822,
+    "stars": 106823,
     "language": "",
     "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agen",
     "topics": "awesome-list, design-md, design-system, design-tokens, figma, google-stitch, landing-page, vibe-coding, vibe-design, vibecoding",
@@ -79,12 +79,12 @@
   {
     "repo": "hacksider/Deep-Live-Cam",
     "url": "https://github.com/hacksider/Deep-Live-Cam",
-    "stars": 95738,
+    "stars": 95739,
     "language": "Python",
     "description": "real time face swap and one-click video deepfake with only a single image",
     "topics": "ai, ai-deep-fake, ai-face, ai-webcam, artificial-intelligence, deep-fake, deepfake, deepfake-webcam, faceswap, fake-webcam, gan, real-time-deepfake, realtime, realtime-deepfake, realtime-face-changer, video-deepfake, webcam, webcamera",
     "created": "2023-09-24",
-    "forks": 13963,
+    "forks": 13964,
     "license": "AGPL-3.0"
   },
   {
@@ -123,18 +123,18 @@
   {
     "repo": "nexu-io/open-design",
     "url": "https://github.com/nexu-io/open-design",
-    "stars": 83979,
+    "stars": 83980,
     "language": "TypeScript",
     "description": "\ud83c\udfa8 The open-source Claude Design alternative. \ud83d\udda5\ufe0f Local-first desktop app. \ud83d\uddbc\ufe0f Your coding agent becomes the design engine:",
     "topics": "agent-skills, ai-agents, ai-design, byok, claude-code-for-design, claude-design, codex-design, coding-agents, cursor-design, design-systems, design-tools, desktop-app, figma-alternative, generative-ai, hermes-agent, local-first, no-code, prototyping, ui-generator, vibe-coding",
     "created": "2026-04-28",
-    "forks": 9764,
+    "forks": 9765,
     "license": "Apache-2.0"
   },
   {
     "repo": "addyosmani/agent-skills",
     "url": "https://github.com/addyosmani/agent-skills",
-    "stars": 82010,
+    "stars": 82012,
     "language": "JavaScript",
     "description": "Production-grade engineering skills for AI coding agents.",
     "topics": "agent-skills, antigravity, claude-code, codex, cursor, skills",
@@ -200,12 +200,12 @@
   {
     "repo": "microsoft/AI-For-Beginners",
     "url": "https://github.com/microsoft/AI-For-Beginners",
-    "stars": 62133,
+    "stars": 62134,
     "language": "Jupyter Notebook",
     "description": "12 Weeks, 24 Lessons, AI for All!",
     "topics": "ai, artificial-intelligence, cnn, computer-vision, deep-learning, gan, machine-learning, microsoft-for-beginners, nlp, rnn",
     "created": "2021-03-03",
-    "forks": 12078,
+    "forks": 12079,
     "license": "MIT"
   },
   {
@@ -277,7 +277,7 @@
   {
     "repo": "diegosouzapw/OmniRoute",
     "url": "https://github.com/diegosouzapw/OmniRoute",
-    "stars": 40801,
+    "stars": 40803,
     "language": "TypeScript",
     "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models \u2014 Kimi, Claude, GPT, OpenAI",
     "topics": "a2a, ai-agents, ai-gateway, anthropic, claude, claude-code, cline, codex, copilot, cursor, deepseek, free-ai, gemini, kimi, llm-gateway, mcp, openai, openai-proxy, qwen, token-saver",
@@ -321,7 +321,7 @@
   {
     "repo": "Crosstalk-Solutions/project-nomad",
     "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-    "stars": 35508,
+    "stars": 35509,
     "language": "TypeScript",
     "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and opti",
     "topics": "",
@@ -387,7 +387,7 @@
   {
     "repo": "Gitlawb/openclaude",
     "url": "https://github.com/Gitlawb/openclaude",
-    "stars": 30530,
+    "stars": 30531,
     "language": "TypeScript",
     "description": "runs anywhere. uses anything",
     "topics": "ai, ai-agent, ai-tools, cli, coding",
@@ -431,18 +431,18 @@
   {
     "repo": "decolua/9router",
     "url": "https://github.com/decolua/9router",
-    "stars": 24748,
+    "stars": 24747,
     "language": "JavaScript",
     "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via ",
     "topics": "ai-agents, ai-gateway, anthropic, chatgpt, claude, claude-code, cline, codex, copilot, cursor, deepseek, free-ai, gemini, gemini-cli, llm, llm-gateway, openai, openai-proxy, qwen, token-saver",
     "created": "2026-01-05",
-    "forks": 4352,
+    "forks": 4353,
     "license": "MIT"
   },
   {
     "repo": "herdrdev/herdr",
     "url": "https://github.com/herdrdev/herdr",
-    "stars": 24697,
+    "stars": 24698,
     "language": "Rust",
     "description": "the runtime your coding agents live on",
     "topics": "agent, agent-orchestration, ai, ai-agents, claude-code, cli, codex, coding-agents, developer-tools, devtools, multiplexer, rust, terminal, terminal-multiplexer, terminal-ui, tmux, tui, workspace-manager",
@@ -508,7 +508,7 @@
   {
     "repo": "Alibaba-NLP/DeepResearch",
     "url": "https://github.com/Alibaba-NLP/DeepResearch",
-    "stars": 19790,
+    "stars": 19791,
     "language": "Python",
     "description": "Tongyi Deep Research, the Leading Open-source Deep Research Agent",
     "topics": "agent, alibaba, artificial-intelligence, deep-research, deepresearch, information-seeking, llm, tongyi, web-agent",
@@ -563,7 +563,7 @@
   {
     "repo": "SubtitleEdit/subtitleedit",
     "url": "https://github.com/SubtitleEdit/subtitleedit",
-    "stars": 13735,
+    "stars": 13736,
     "language": "C#",
     "description": "the subtitle editor :)",
     "topics": "",
@@ -607,7 +607,7 @@
   {
     "repo": "blackboardsh/electrobun",
     "url": "https://github.com/blackboardsh/electrobun",
-    "stars": 12644,
+    "stars": 12645,
     "language": "TypeScript",
     "description": "Build ultra fast, tiny, and cross-platform desktop apps with Typescript.",
     "topics": "",
@@ -832,7 +832,7 @@
     "description": "Free and open source manga reader for Android",
     "topics": "android, j2k, komga, kotlin, manga, manga-downloader, manga-reader, mangadex, mangadex-downloader, mangadownloader, mangareader, mihon, neko, tachiyomi, tachiyomisy",
     "created": "2024-01-14",
-    "forks": 226,
+    "forks": 225,
     "license": "Apache-2.0"
   },
   {

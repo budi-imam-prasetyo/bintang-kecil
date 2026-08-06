@@ -8,19 +8,19 @@
 
 | Repository | ⭐ | Language | Description |
 |---|---:|---|---|
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 226,094 | Python | The agent that grows with you |
-| [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 113,850 | Python | An AI SKILL that provide design intelligence for building professional UI/UX mul |
-| [nexu-io/open-design](https://github.com/nexu-io/open-design) | 83,979 | TypeScript | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 82,010 | JavaScript | Production-grade engineering skills for AI coding agents. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 226,095 | Python | The agent that grows with you |
+| [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 113,852 | Python | An AI SKILL that provide design intelligence for building professional UI/UX mul |
+| [nexu-io/open-design](https://github.com/nexu-io/open-design) | 83,980 | TypeScript | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 82,012 | JavaScript | Production-grade engineering skills for AI coding agents. |
 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 79,145 | TypeScript | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic |
 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 65,056 | Python | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20 |
 | [tldraw/tldraw](https://github.com/tldraw/tldraw) | 49,618 | TypeScript | Build infinite canvas apps in React with the tldraw SDK. World's best, top-most  |
-| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 40,801 | TypeScript | Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), |
+| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 40,803 | TypeScript | Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), |
 | [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) | 36,007 | TypeScript | Vane is an AI-powered answering engine. |
-| [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) | 30,530 | TypeScript | runs anywhere. uses anything |
-| [decolua/9router](https://github.com/decolua/9router) | 24,748 | JavaScript | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, An |
-| [herdrdev/herdr](https://github.com/herdrdev/herdr) | 24,697 | Rust | the runtime your coding agents live on |
-| [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) | 19,790 | Python | Tongyi Deep Research, the Leading Open-source Deep Research Agent |
+| [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) | 30,531 | TypeScript | runs anywhere. uses anything |
+| [decolua/9router](https://github.com/decolua/9router) | 24,747 | JavaScript | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, An |
+| [herdrdev/herdr](https://github.com/herdrdev/herdr) | 24,698 | Rust | the runtime your coding agents live on |
+| [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) | 19,791 | Python | Tongyi Deep Research, the Leading Open-source Deep Research Agent |
 | [1jehuang/jcode](https://github.com/1jehuang/jcode) | 16,098 | Rust | The most RAM efficient harness |
 | [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) | 12,928 | TypeScript | 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Come |
 | [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) | 3,114 | TypeScript | All-in-One Native Local Development Environment for Windows, macOS & Linux. Dock |
@@ -32,10 +32,10 @@
 
 | Repository | ⭐ | Language | Description |
 |---|---:|---|---|
-| [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 95,738 | Python | real time face swap and one-click video deepfake with only a single image |
+| [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 95,739 | Python | real time face swap and one-click video deepfake with only a single image |
 | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 89,057 | Jupyter Notebook | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all |
 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 70,040 | Python | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能 |
-| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 62,133 | Jupyter Notebook | 12 Weeks, 24 Lessons, AI for All! |
+| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 62,134 | Jupyter Notebook | 12 Weeks, 24 Lessons, AI for All! |
 | [janhq/jan](https://github.com/janhq/jan) | 43,866 | TypeScript | Jan is an open source alternative to ChatGPT that runs 100% offline on your comp |
 | [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | 31,154 | Rust | Hundreds of models & providers. One command to find what runs on your hardware. |
 | [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 21,112 | TypeScript | Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt |
@@ -44,7 +44,7 @@
 
 | Repository | ⭐ | Language | Description |
 |---|---:|---|---|
-| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | 106,822 |  | A collection of DESIGN.md files analysis by popular brand design systems. Drop o |
+| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | 106,823 |  | A collection of DESIGN.md files analysis by popular brand design systems. Drop o |
 | [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) | 96,513 |  | A Collection of application ideas which can be used to improve your coding skill |
 | [epicmaxco/vuestic-admin](https://github.com/epicmaxco/vuestic-admin) | 10,956 | Vue | Vuestic Admin is an open-source, ready-to-use admin template suite designed for  |
 | [nativewind/nativewind](https://github.com/nativewind/nativewind) | 8,047 | TypeScript | The utility-first workflow you love from Tailwind CSS in your React Native appli |
@@ -111,7 +111,7 @@
 | [tw93/Pake](https://github.com/tw93/Pake) | 60,474 | Rust | 🤱🏻 Turn any webpage into a desktop app with one command. |
 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | 33,510 | Zig | Lightpanda: the headless browser designed for AI and automation |
 | [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) | 20,368 | TypeScript | Create polished demo videos without editing skills. Mac/Windows/Linux |
-| [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) | 12,644 | TypeScript | Build ultra fast, tiny, and cross-platform desktop apps with Typescript. |
+| [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) | 12,645 | TypeScript | Build ultra fast, tiny, and cross-platform desktop apps with Typescript. |
 | [Suwayomi/Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) | 7,402 | Java | A rewrite of Tachiyomi for the Desktop |
 | [caamer20/Telegram-Drive](https://github.com/caamer20/Telegram-Drive) | 4,611 | TypeScript | Turn your Telegram account into an unlimited, secure cloud storage drive. an Ope |
 
@@ -120,7 +120,7 @@
 | Repository | ⭐ | Language | Description |
 |---|---:|---|---|
 | [videojs/video.js](https://github.com/videojs/video.js) | 39,841 | JavaScript | Video.js - open source HTML5 video player |
-| [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) | 13,735 | C# | the subtitle editor :) |
+| [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) | 13,736 | C# | the subtitle editor :) |
 | [nexmoe/VidBee](https://github.com/nexmoe/VidBee) | 10,092 | TypeScript | Download videos from almost any website worldwide |
 | [tonhowtf/omniget](https://github.com/tonhowtf/omniget) | 8,412 | Rust | Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sit |
 | [jpdoshi/dragon-store](https://github.com/jpdoshi/dragon-store) | 463 | TypeScript | Dragon Store is your gateway to transparent, libre and free open-source apps. |
@@ -161,7 +161,7 @@
 |---|---:|---|---|
 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | 180,236 | Go | A curated list of awesome Go frameworks, libraries and software |
 | [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) | 66,585 |  | Curated list of design and UI resources from stock photos, web templates, CSS fr |
-| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 35,508 | TypeScript | Project NOMAD is an offline-first knowledge and education server. Wikipedia, tho |
+| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 35,509 | TypeScript | Project NOMAD is an offline-first knowledge and education server. Wikipedia, tho |
 | [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) | 32,640 |  | A curated list of amazingly awesome PHP libraries, resources and shiny things. |
 | [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) | 25,546 | HTML | 🐧 A list of awesome Linux softwares  |
 | [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun) | 3,621 |  | ⚡️ A curated list of awesome things related to Bun |
@@ -179,7 +179,7 @@
 
 | Repository | ⭐ | Language | Description |
 |---|---:|---|---|
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 193,847 | TypeScript | The open source coding agent. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 193,849 | TypeScript | The open source coding agent. |
 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 131,161 | HTML | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo |
 | [slidevjs/slidev](https://github.com/slidevjs/slidev) | 47,972 | TypeScript | Presentation Slides for Developers |
 | [wailsapp/wails](https://github.com/wailsapp/wails) | 35,704 | Go | Create beautiful applications using Go |
@@ -230,5 +230,5 @@
 | Total starred | 150 |
 | Top language | TypeScript (42 repos) |
 | Runner-up | Kotlin (19), Rust (15) |
-| Most starred | NousResearch/hermes-agent (226,094 ⭐) |
+| Most starred | NousResearch/hermes-agent (226,095 ⭐) |
 | Own repos starred | 2 |

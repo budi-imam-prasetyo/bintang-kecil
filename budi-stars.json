@@ -13,7 +13,7 @@
   {
     "repo": "anomalyco/opencode",
     "url": "https://github.com/anomalyco/opencode",
-    "stars": 193850,
+    "stars": 193853,
     "language": "TypeScript",
     "description": "The open source coding agent.",
     "topics": "",
@@ -57,7 +57,7 @@
   {
     "repo": "VoltAgent/awesome-design-md",
     "url": "https://github.com/VoltAgent/awesome-design-md",
-    "stars": 106823,
+    "stars": 106824,
     "language": "",
     "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agen",
     "topics": "awesome-list, design-md, design-system, design-tokens, figma, google-stitch, landing-page, vibe-coding, vibe-design, vibecoding",
@@ -90,7 +90,7 @@
   {
     "repo": "oven-sh/bun",
     "url": "https://github.com/oven-sh/bun",
-    "stars": 95291,
+    "stars": 95292,
     "language": "Rust",
     "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager \u2013 all in one",
     "topics": "bun, bundler, javascript, javascriptcore, jsx, nodejs, npm, react, rust, rust-lang, transpiler, typescript",
@@ -134,23 +134,23 @@
   {
     "repo": "addyosmani/agent-skills",
     "url": "https://github.com/addyosmani/agent-skills",
-    "stars": 82014,
+    "stars": 82017,
     "language": "JavaScript",
     "description": "Production-grade engineering skills for AI coding agents.",
     "topics": "agent-skills, antigravity, claude-code, codex, cursor, skills",
     "created": "2026-02-15",
-    "forks": 8825,
+    "forks": 8826,
     "license": "MIT"
   },
   {
     "repo": "koala73/worldmonitor",
     "url": "https://github.com/koala73/worldmonitor",
-    "stars": 79146,
+    "stars": 79148,
     "language": "TypeScript",
     "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracki",
     "topics": "agent, ai, dashboard, geopolitics, mcp, mcp-server, monitoring, news, opensource, osint, palantir, situation",
     "created": "2026-01-08",
-    "forks": 11818,
+    "forks": 11819,
     "license": "NOASSERTION"
   },
   {
@@ -200,12 +200,12 @@
   {
     "repo": "microsoft/AI-For-Beginners",
     "url": "https://github.com/microsoft/AI-For-Beginners",
-    "stars": 62135,
+    "stars": 62136,
     "language": "Jupyter Notebook",
     "description": "12 Weeks, 24 Lessons, AI for All!",
     "topics": "ai, artificial-intelligence, cnn, computer-vision, deep-learning, gan, machine-learning, microsoft-for-beginners, nlp, rnn",
     "created": "2021-03-03",
-    "forks": 12079,
+    "forks": 12078,
     "license": "MIT"
   },
   {
@@ -222,7 +222,7 @@
   {
     "repo": "tw93/Pake",
     "url": "https://github.com/tw93/Pake",
-    "stars": 60474,
+    "stars": 60475,
     "language": "Rust",
     "description": "\ud83e\udd31\ud83c\udffb Turn any webpage into a desktop app with one command.",
     "topics": "chatgpt, claude, desktop, gemini, hight-performance, linux, macos, no-electron, package, rust, tauri, windows, youtube",
@@ -277,7 +277,7 @@
   {
     "repo": "diegosouzapw/OmniRoute",
     "url": "https://github.com/diegosouzapw/OmniRoute",
-    "stars": 40805,
+    "stars": 40809,
     "language": "TypeScript",
     "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models \u2014 Kimi, Claude, GPT, OpenAI",
     "topics": "a2a, ai-agents, ai-gateway, anthropic, claude, claude-code, cline, codex, copilot, cursor, deepseek, free-ai, gemini, kimi, llm-gateway, mcp, openai, openai-proxy, qwen, token-saver",
@@ -299,7 +299,7 @@
   {
     "repo": "ItzCrazyKns/Vane",
     "url": "https://github.com/ItzCrazyKns/Vane",
-    "stars": 36007,
+    "stars": 36008,
     "language": "TypeScript",
     "description": "Vane is an AI-powered answering engine.",
     "topics": "ai-agents, ai-search-engine, answering-engine, artificial-intelligence, llm, machine-learning, open-source-ai-search-engine, perplexica, rag, search-engine, searxng, searxng-copilot, self-hosted-ai, vane",
@@ -431,7 +431,7 @@
   {
     "repo": "decolua/9router",
     "url": "https://github.com/decolua/9router",
-    "stars": 24747,
+    "stars": 24748,
     "language": "JavaScript",
     "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via ",
     "topics": "ai-agents, ai-gateway, anthropic, chatgpt, claude, claude-code, cline, codex, copilot, cursor, deepseek, free-ai, gemini, gemini-cli, llm, llm-gateway, openai, openai-proxy, qwen, token-saver",
@@ -442,7 +442,7 @@
   {
     "repo": "herdrdev/herdr",
     "url": "https://github.com/herdrdev/herdr",
-    "stars": 24698,
+    "stars": 24699,
     "language": "Rust",
     "description": "the runtime your coding agents live on",
     "topics": "agent, agent-orchestration, ai, ai-agents, claude-code, cli, codex, coding-agents, developer-tools, devtools, multiplexer, rust, terminal, terminal-multiplexer, terminal-ui, tmux, tui, workspace-manager",

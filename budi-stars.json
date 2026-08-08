@@ -2,18 +2,18 @@
   {
     "repo": "NousResearch/hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "stars": 227358,
+    "stars": 227375,
     "language": "Python",
     "description": "The agent that grows with you",
     "topics": "ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, clawdbot, codex, hermes, hermes-agent, llm, moltbot, nous-research, openai, openclaw",
     "created": "2025-07-22",
-    "forks": 44511,
+    "forks": 44514,
     "license": "MIT"
   },
   {
     "repo": "anomalyco/opencode",
     "url": "https://github.com/anomalyco/opencode",
-    "stars": 194991,
+    "stars": 195006,
     "language": "TypeScript",
     "description": "The open source coding agent.",
     "topics": "",
@@ -24,7 +24,7 @@
   {
     "repo": "avelino/awesome-go",
     "url": "https://github.com/avelino/awesome-go",
-    "stars": 180484,
+    "stars": 180491,
     "language": "Go",
     "description": "A curated list of awesome Go frameworks, libraries and software",
     "topics": "awesome, awesome-list, go, golang, golang-library, hacktoberfest",
@@ -35,29 +35,29 @@
   {
     "repo": "ripienaar/free-for-dev",
     "url": "https://github.com/ripienaar/free-for-dev",
-    "stars": 131307,
+    "stars": 131310,
     "language": "HTML",
     "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
     "topics": "awesome-list, free-for-developers",
     "created": "2015-03-18",
-    "forks": 13762,
+    "forks": 13763,
     "license": ""
   },
   {
     "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
     "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-    "stars": 114649,
+    "stars": 114658,
     "language": "Python",
     "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
     "topics": "ai-skills, antigravity, claude, claude-code, codex, command-line, copilot, cursor-ai, html5, kiro, landing-page, mobile-ui, qoder, react, tailwindcss, trae, ui-design, uikit, windsurf-ai",
     "created": "2025-11-30",
-    "forks": 12281,
+    "forks": 12282,
     "license": "MIT"
   },
   {
     "repo": "VoltAgent/awesome-design-md",
     "url": "https://github.com/VoltAgent/awesome-design-md",
-    "stars": 107279,
+    "stars": 107281,
     "language": "",
     "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agen",
     "topics": "awesome-list, design-md, design-system, design-tokens, figma, google-stitch, landing-page, vibe-coding, vibe-design, vibecoding",
@@ -90,7 +90,7 @@
   {
     "repo": "oven-sh/bun",
     "url": "https://github.com/oven-sh/bun",
-    "stars": 95329,
+    "stars": 95330,
     "language": "Rust",
     "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager \u2013 all in one",
     "topics": "bun, bundler, javascript, javascriptcore, jsx, nodejs, npm, react, rust, rust-lang, transpiler, typescript",
@@ -101,7 +101,7 @@
   {
     "repo": "microsoft/ML-For-Beginners",
     "url": "https://github.com/microsoft/ML-For-Beginners",
-    "stars": 89150,
+    "stars": 89153,
     "language": "Jupyter Notebook",
     "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
     "topics": "data-science, education, machine-learning, machine-learning-algorithms, machinelearning, machinelearning-python, microsoft-for-beginners, ml, python, r, scikit-learn, scikit-learn-python",
@@ -112,18 +112,18 @@
   {
     "repo": "addyosmani/agent-skills",
     "url": "https://github.com/addyosmani/agent-skills",
-    "stars": 84275,
+    "stars": 84301,
     "language": "JavaScript",
     "description": "Production-grade engineering skills for AI coding agents.",
     "topics": "agent-skills, antigravity, claude-code, codex, cursor, skills",
     "created": "2026-02-15",
-    "forks": 8996,
+    "forks": 8997,
     "license": "MIT"
   },
   {
     "repo": "koala73/worldmonitor",
     "url": "https://github.com/koala73/worldmonitor",
-    "stars": 79841,
+    "stars": 79851,
     "language": "TypeScript",
     "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracki",
     "topics": "agent, ai, dashboard, geopolitics, mcp, mcp-server, monitoring, news, opensource, osint, palantir, situation",
@@ -178,7 +178,7 @@
   {
     "repo": "janhq/jan",
     "url": "https://github.com/janhq/jan",
-    "stars": 43909,
+    "stars": 43911,
     "language": "TypeScript",
     "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
     "topics": "chatgpt, gpt, llamacpp, llm, localai, open-source, self-hosted, tauri",
@@ -189,12 +189,12 @@
   {
     "repo": "diegosouzapw/OmniRoute",
     "url": "https://github.com/diegosouzapw/OmniRoute",
-    "stars": 43136,
+    "stars": 43168,
     "language": "TypeScript",
     "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models \u2014 Kimi, Claude, GPT, OpenAI",
     "topics": "a2a, ai-agents, ai-gateway, anthropic, claude, claude-code, cline, codex, copilot, cursor, deepseek, free-ai, gemini, kimi, llm-gateway, mcp, openai, openai-proxy, qwen, token-saver",
     "created": "2026-02-13",
-    "forks": 5757,
+    "forks": 5764,
     "license": "MIT"
   },
   {
@@ -205,7 +205,7 @@
     "description": "An open source, self-hosted implementation of the Tailscale control server",
     "topics": "tailscale, tailscale-control-server, tailscale-server, wireguard",
     "created": "2020-06-21",
-    "forks": 2494,
+    "forks": 2492,
     "license": "BSD-3-Clause"
   },
   {
@@ -222,7 +222,7 @@
   {
     "repo": "Crosstalk-Solutions/project-nomad",
     "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-    "stars": 35610,
+    "stars": 35612,
     "language": "TypeScript",
     "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and opti",
     "topics": "",
@@ -277,7 +277,7 @@
   {
     "repo": "charmbracelet/glow",
     "url": "https://github.com/charmbracelet/glow",
-    "stars": 26748,
+    "stars": 26750,
     "language": "Go",
     "description": "Render markdown on the CLI, with pizzazz! \ud83d\udc85\ud83c\udffb",
     "topics": "cli, excitement, hacktoberfest, markdown",
@@ -288,12 +288,12 @@
   {
     "repo": "herdrdev/herdr",
     "url": "https://github.com/herdrdev/herdr",
-    "stars": 25828,
+    "stars": 25848,
     "language": "Rust",
     "description": "the runtime your coding agents live on",
     "topics": "agent, agent-orchestration, ai, ai-agents, claude-code, cli, codex, coding-agents, developer-tools, devtools, multiplexer, rust, terminal, terminal-multiplexer, terminal-ui, tmux, tui, workspace-manager",
     "created": "2026-03-27",
-    "forks": 1818,
+    "forks": 1819,
     "license": "Apache-2.0"
   },
   {
@@ -310,12 +310,12 @@
   {
     "repo": "decolua/9router",
     "url": "https://github.com/decolua/9router",
-    "stars": 24977,
+    "stars": 24978,
     "language": "JavaScript",
     "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via ",
     "topics": "ai-agents, ai-gateway, anthropic, chatgpt, claude, claude-code, cline, codex, copilot, cursor, deepseek, free-ai, gemini, gemini-cli, llm, llm-gateway, openai, openai-proxy, qwen, token-saver",
     "created": "2026-01-05",
-    "forks": 4433,
+    "forks": 4435,
     "license": "MIT"
   },
   {
@@ -332,7 +332,7 @@
   {
     "repo": "folke/lazy.nvim",
     "url": "https://github.com/folke/lazy.nvim",
-    "stars": 21389,
+    "stars": 21388,
     "language": "Lua",
     "description": "\ud83d\udca4 A modern plugin manager for Neovim",
     "topics": "neovim, neovim-plugin, nvim, package-manager, plugin-manager",
@@ -376,7 +376,7 @@
   {
     "repo": "elysiajs/elysia",
     "url": "https://github.com/elysiajs/elysia",
-    "stars": 18860,
+    "stars": 18861,
     "language": "TypeScript",
     "description": "Ergonomic Framework for Humans",
     "topics": "bun, framework, http, server, typescript, web",
@@ -409,18 +409,18 @@
   {
     "repo": "browseros-ai/BrowserOS",
     "url": "https://github.com/browseros-ai/BrowserOS",
-    "stars": 13023,
+    "stars": 13026,
     "language": "TypeScript",
     "description": "\ud83c\udf10 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.",
     "topics": "agent, browser, browseros, chromium, hacktoberfest, linux, llm, lmstudio, macos, ollama, windows",
     "created": "2025-05-18",
-    "forks": 1373,
+    "forks": 1374,
     "license": "AGPL-3.0"
   },
   {
     "repo": "blackboardsh/electrobun",
     "url": "https://github.com/blackboardsh/electrobun",
-    "stars": 12652,
+    "stars": 12653,
     "language": "TypeScript",
     "description": "Build ultra fast, tiny, and cross-platform desktop apps with Typescript.",
     "topics": "",
@@ -431,12 +431,12 @@
   {
     "repo": "firecrawl/anydoc",
     "url": "https://github.com/firecrawl/anydoc",
-    "stars": 11884,
+    "stars": 11899,
     "language": "Rust",
     "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js an",
     "topics": "",
     "created": "2026-08-03",
-    "forks": 560,
+    "forks": 565,
     "license": "MIT"
   },
   {
@@ -486,7 +486,7 @@
   {
     "repo": "crynta/terax-ai",
     "url": "https://github.com/crynta/terax-ai",
-    "stars": 8902,
+    "stars": 8904,
     "language": "TypeScript",
     "description": "Lightweight (7MB) Terminal-first AI-native dev workspace",
     "topics": "agents, ai, code-editor, linux, macos, reactjs, rust, tauri, terminal, windows, xterm-js",
@@ -530,7 +530,7 @@
   {
     "repo": "komikku-app/komikku",
     "url": "https://github.com/komikku-app/komikku",
-    "stars": 4483,
+    "stars": 4484,
     "language": "Kotlin",
     "description": "Free and open source manga reader for Android",
     "topics": "android, j2k, komga, kotlin, manga, manga-downloader, manga-reader, mangadex, mangadex-downloader, mangadownloader, mangareader, mihon, neko, tachiyomi, tachiyomisy",
@@ -541,7 +541,7 @@
   {
     "repo": "aldinokemal/go-whatsapp-web-multidevice",
     "url": "https://github.com/aldinokemal/go-whatsapp-web-multidevice",
-    "stars": 4415,
+    "stars": 4422,
     "language": "Go",
     "description": "GOWA - WhatsApp REST API with support for UI, Multi Account, Webhooks, and MCP, and Chatwoot. Built with Golang for effi",
     "topics": "bot, go, golang, golang-whatsapp, golang-whatsapp-api, rest, rest-api, whatsapp, whatsapp-api, whatsapp-api-go, whatsapp-multi-device, whatsapp-web-multi-device",
@@ -607,12 +607,12 @@
   {
     "repo": "dembrandt/dembrandt",
     "url": "https://github.com/dembrandt/dembrandt",
-    "stars": 2525,
+    "stars": 2527,
     "language": "TypeScript",
     "description": "Extract any website\u2019s design system into tokens in seconds: logo, colors, typography, borders & more. One command.",
     "topics": "brand-audits, css, design-engineering, design-md, design-ops, design-systems, design-to-code, design-tokens, developer-experience, dx, frontend, mcp, nodejs, open-source, playwright, productivity, reverse-engineering, tailwind-css, token-drift, ui-audit",
     "created": "2025-11-22",
-    "forks": 241,
+    "forks": 242,
     "license": "MIT"
   },
   {
@@ -629,18 +629,18 @@
   {
     "repo": "BraveOPotato/FckSignups",
     "url": "https://github.com/BraveOPotato/FckSignups",
-    "stars": 2120,
+    "stars": 2121,
     "language": "TypeScript",
     "description": "A list of tools that are open-source, in-browser, and require no-signups!",
     "topics": "",
     "created": "2026-05-07",
-    "forks": 150,
+    "forks": 151,
     "license": "GPL-3.0"
   },
   {
     "repo": "akr3ch/BugBountyBooks",
     "url": "https://github.com/akr3ch/BugBountyBooks",
-    "stars": 1969,
+    "stars": 1970,
     "language": "",
     "description": "A collection of PDF/books about the modern web application security and bug bounty.",
     "topics": "bugbounty, bugbountybooks, bugbountypdf, bugbountytips, cheatsheets, hackingbooks",
@@ -772,7 +772,7 @@
   {
     "repo": "Vrun-design/openflowkit",
     "url": "https://github.com/Vrun-design/openflowkit",
-    "stars": 674,
+    "stars": 675,
     "language": "TypeScript",
     "description": "100% Free, Open-source local-first AI diagramming for architecture diagrams and flowcharts with animated exports.",
     "topics": "ai, architecture-diagrams, code-to-diagram, design-tool, developer-tools, diagramming, flowchart, local-first, mermaid, open-source, react, self-hosted, system-design, typescript",
@@ -838,7 +838,7 @@
   {
     "repo": "jchultarsky/mirador",
     "url": "https://github.com/jchultarsky/mirador",
-    "stars": 277,
+    "stars": 278,
     "language": "Rust",
     "description": "An opinionated personal dashboard for your terminal \u2014 world clocks, calendar and agenda, weather, tasks, notes, markets ",
     "topics": "cli, command-line-tool, crossterm, dashboard, notes, productivity, ratatui, rust, system-monitor, task-management, terminal, terminal-dashboard, todo, tui, weather",

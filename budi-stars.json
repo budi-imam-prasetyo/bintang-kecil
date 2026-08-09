@@ -2,7 +2,7 @@
   {
     "repo": "NousResearch/hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "stars": 227521,
+    "stars": 227524,
     "language": "Python",
     "description": "The agent that grows with you",
     "topics": "ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, clawdbot, codex, hermes, hermes-agent, llm, moltbot, nous-research, openai, openclaw",
@@ -13,12 +13,12 @@
   {
     "repo": "anomalyco/opencode",
     "url": "https://github.com/anomalyco/opencode",
-    "stars": 195093,
+    "stars": 195094,
     "language": "TypeScript",
     "description": "The open source coding agent.",
     "topics": "",
     "created": "2025-04-30",
-    "forks": 24969,
+    "forks": 24968,
     "license": "MIT"
   },
   {
@@ -46,7 +46,7 @@
   {
     "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
     "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-    "stars": 114741,
+    "stars": 114742,
     "language": "Python",
     "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
     "topics": "ai-skills, antigravity, claude, claude-code, codex, command-line, copilot, cursor-ai, html5, kiro, landing-page, mobile-ui, qoder, react, tailwindcss, trae, ui-design, uikit, windsurf-ai",
@@ -112,12 +112,12 @@
   {
     "repo": "addyosmani/agent-skills",
     "url": "https://github.com/addyosmani/agent-skills",
-    "stars": 84542,
+    "stars": 84545,
     "language": "JavaScript",
     "description": "Production-grade engineering skills for AI coding agents.",
     "topics": "agent-skills, antigravity, claude-code, codex, cursor, skills",
     "created": "2026-02-15",
-    "forks": 9095,
+    "forks": 9097,
     "license": "MIT"
   },
   {
@@ -189,7 +189,7 @@
   {
     "repo": "diegosouzapw/OmniRoute",
     "url": "https://github.com/diegosouzapw/OmniRoute",
-    "stars": 43442,
+    "stars": 43443,
     "language": "TypeScript",
     "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models \u2014 Kimi, Claude, GPT, OpenAI",
     "topics": "a2a, ai-agents, ai-gateway, anthropic, claude, claude-code, cline, codex, copilot, cursor, deepseek, free-ai, gemini, kimi, llm-gateway, mcp, openai, openai-proxy, qwen, token-saver",
@@ -310,7 +310,7 @@
   {
     "repo": "decolua/9router",
     "url": "https://github.com/decolua/9router",
-    "stars": 24998,
+    "stars": 25000,
     "language": "JavaScript",
     "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via ",
     "topics": "ai-agents, ai-gateway, anthropic, chatgpt, claude, claude-code, cline, codex, copilot, cursor, deepseek, free-ai, gemini, gemini-cli, llm, llm-gateway, openai, openai-proxy, qwen, token-saver",
@@ -409,7 +409,7 @@
   {
     "repo": "browseros-ai/BrowserOS",
     "url": "https://github.com/browseros-ai/BrowserOS",
-    "stars": 13062,
+    "stars": 13063,
     "language": "TypeScript",
     "description": "\ud83c\udf10 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.",
     "topics": "agent, browser, browseros, chromium, hacktoberfest, linux, llm, lmstudio, macos, ollama, windows",
@@ -431,7 +431,7 @@
   {
     "repo": "firecrawl/anydoc",
     "url": "https://github.com/firecrawl/anydoc",
-    "stars": 12104,
+    "stars": 12107,
     "language": "Rust",
     "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js an",
     "topics": "",

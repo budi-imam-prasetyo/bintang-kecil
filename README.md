@@ -8,13 +8,13 @@
 
 | Repository | ⭐ | Language | Description |
 |---|---:|---|---|
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 227,521 | Python | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 195,093 | TypeScript | The open source coding agent. |
-| [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 114,741 | Python | An AI SKILL that provide design intelligence for building professional UI/UX mul |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 84,542 | JavaScript | Production-grade engineering skills for AI coding agents. |
-| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 43,442 | TypeScript | Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 227,524 | Python | The agent that grows with you |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 195,094 | TypeScript | The open source coding agent. |
+| [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 114,742 | Python | An AI SKILL that provide design intelligence for building professional UI/UX mul |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 84,545 | JavaScript | Production-grade engineering skills for AI coding agents. |
+| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 43,443 | TypeScript | Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), |
 | [herdrdev/herdr](https://github.com/herdrdev/herdr) | 25,950 | Rust | the runtime your coding agents live on |
-| [decolua/9router](https://github.com/decolua/9router) | 24,998 | JavaScript | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, An |
+| [decolua/9router](https://github.com/decolua/9router) | 25,000 | JavaScript | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, An |
 
 ## 🧠 AI/ML
 
@@ -23,7 +23,7 @@
 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 95,823 | Python | real time face swap and one-click video deepfake with only a single image |
 | [janhq/jan](https://github.com/janhq/jan) | 43,917 | TypeScript | Jan is an open source alternative to ChatGPT that runs 100% offline on your comp |
 | [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 21,145 | TypeScript | Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt |
-| [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) | 13,062 | TypeScript | 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Come |
+| [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) | 13,063 | TypeScript | 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Come |
 
 ## 🎨 UI/UX & Design
 
@@ -141,7 +141,7 @@
 | Repository | ⭐ | Language | Description |
 |---|---:|---|---|
 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 79,958 | TypeScript | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic |
-| [firecrawl/anydoc](https://github.com/firecrawl/anydoc) | 12,104 | Rust | Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean  |
+| [firecrawl/anydoc](https://github.com/firecrawl/anydoc) | 12,107 | Rust | Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean  |
 | [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) | 3,121 | TypeScript | All-in-One Native Local Development Environment for Windows, macOS & Linux. Dock |
 | [Bhanu7773-dev/DevHub](https://github.com/Bhanu7773-dev/DevHub) | 34 | Dart | A Toolkit For Devs |
 | [jow4h/URBoard](https://github.com/jow4h/URBoard) | 27 | TypeScript | — |
@@ -179,5 +179,5 @@
 | Total starred | 91 |
 | Top language | TypeScript (28 repos) |
 | Runner-up | Rust (13), Unknown (8) |
-| Most starred | NousResearch/hermes-agent (227,521 ⭐) |
+| Most starred | NousResearch/hermes-agent (227,524 ⭐) |
 | Own repos starred | 2 |

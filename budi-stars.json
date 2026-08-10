@@ -2,7 +2,7 @@
   {
     "repo": "NousResearch/hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "stars": 227943,
+    "stars": 227946,
     "language": "Python",
     "description": "The agent that grows with you",
     "topics": "ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, clawdbot, codex, hermes, hermes-agent, llm, moltbot, nous-research, openai, openclaw",
@@ -13,7 +13,7 @@
   {
     "repo": "anomalyco/opencode",
     "url": "https://github.com/anomalyco/opencode",
-    "stars": 195435,
+    "stars": 195436,
     "language": "TypeScript",
     "description": "The open source coding agent.",
     "topics": "",
@@ -24,7 +24,7 @@
   {
     "repo": "avelino/awesome-go",
     "url": "https://github.com/avelino/awesome-go",
-    "stars": 180620,
+    "stars": 180621,
     "language": "Go",
     "description": "A curated list of awesome Go frameworks, libraries and software",
     "topics": "awesome, awesome-list, go, golang, golang-library, hacktoberfest",
@@ -46,7 +46,7 @@
   {
     "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
     "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-    "stars": 115019,
+    "stars": 115021,
     "language": "Python",
     "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
     "topics": "ai-skills, antigravity, claude, claude-code, codex, command-line, copilot, cursor-ai, html5, kiro, landing-page, mobile-ui, qoder, react, tailwindcss, trae, ui-design, uikit, windsurf-ai",
@@ -57,7 +57,7 @@
   {
     "repo": "VoltAgent/awesome-design-md",
     "url": "https://github.com/VoltAgent/awesome-design-md",
-    "stars": 107453,
+    "stars": 107454,
     "language": "",
     "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agen",
     "topics": "awesome-list, design-md, design-system, design-tokens, figma, google-stitch, landing-page, vibe-coding, vibe-design, vibecoding",
@@ -112,7 +112,7 @@
   {
     "repo": "addyosmani/agent-skills",
     "url": "https://github.com/addyosmani/agent-skills",
-    "stars": 85141,
+    "stars": 85148,
     "language": "JavaScript",
     "description": "Production-grade engineering skills for AI coding agents.",
     "topics": "agent-skills, antigravity, claude-code, codex, cursor, skills",
@@ -123,7 +123,7 @@
   {
     "repo": "koala73/worldmonitor",
     "url": "https://github.com/koala73/worldmonitor",
-    "stars": 80204,
+    "stars": 80203,
     "language": "TypeScript",
     "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracki",
     "topics": "agent, ai, dashboard, geopolitics, mcp, mcp-server, monitoring, news, opensource, osint, palantir, situation",
@@ -145,7 +145,7 @@
   {
     "repo": "Panniantong/Agent-Reach",
     "url": "https://github.com/Panniantong/Agent-Reach",
-    "stars": 69737,
+    "stars": 69741,
     "language": "Python",
     "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongSh",
     "topics": "agent-infrastructure, ai-agent, ai-search, automation, bilibili, claude-code, cli, cursor, free-api, llm-tools, mcp, python, reddit-scraper, twitter-scraper, web-scraper, xiaohongshu, youtube-transcript",
@@ -156,7 +156,7 @@
   {
     "repo": "pocketbase/pocketbase",
     "url": "https://github.com/pocketbase/pocketbase",
-    "stars": 60575,
+    "stars": 60577,
     "language": "Go",
     "description": "Open Source realtime backend in 1 file",
     "topics": "authentication, backend, golang, realtime",
@@ -189,12 +189,12 @@
   {
     "repo": "diegosouzapw/OmniRoute",
     "url": "https://github.com/diegosouzapw/OmniRoute",
-    "stars": 44292,
+    "stars": 44298,
     "language": "TypeScript",
     "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models \u2014 Kimi, Claude, GPT, OpenAI",
     "topics": "a2a, ai-agents, ai-gateway, anthropic, claude, claude-code, cline, codex, copilot, cursor, deepseek, free-ai, gemini, kimi, llm-gateway, mcp, openai, openai-proxy, qwen, token-saver",
     "created": "2026-02-13",
-    "forks": 5956,
+    "forks": 5957,
     "license": "MIT"
   },
   {
@@ -211,7 +211,7 @@
   {
     "repo": "juanfont/headscale",
     "url": "https://github.com/juanfont/headscale",
-    "stars": 42666,
+    "stars": 42667,
     "language": "Go",
     "description": "An open source, self-hosted implementation of the Tailscale control server",
     "topics": "tailscale, tailscale-control-server, tailscale-server, wireguard",
@@ -233,7 +233,7 @@
   {
     "repo": "Crosstalk-Solutions/project-nomad",
     "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-    "stars": 35657,
+    "stars": 35658,
     "language": "TypeScript",
     "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and opti",
     "topics": "",
@@ -299,7 +299,7 @@
   {
     "repo": "herdrdev/herdr",
     "url": "https://github.com/herdrdev/herdr",
-    "stars": 26427,
+    "stars": 26432,
     "language": "Rust",
     "description": "the runtime your coding agents live on",
     "topics": "agent, agent-orchestration, ai, ai-agents, claude-code, cli, codex, coding-agents, developer-tools, devtools, multiplexer, rust, terminal, terminal-multiplexer, terminal-ui, tmux, tui, workspace-manager",
@@ -431,7 +431,7 @@
   {
     "repo": "firecrawl/anydoc",
     "url": "https://github.com/firecrawl/anydoc",
-    "stars": 12720,
+    "stars": 12724,
     "language": "Rust",
     "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js an",
     "topics": "",
@@ -563,7 +563,7 @@
   {
     "repo": "rukamori/ArchiveTune",
     "url": "https://github.com/rukamori/ArchiveTune",
-    "stars": 4346,
+    "stars": 4347,
     "language": "Kotlin",
     "description": "\ud83c\udf38 The Cutest Music Player With Support Local File and Youtube Music for Android!",
     "topics": "android-application, android-studio, foss, jetpack-compose, kotlin, material-design, material-ui, material3, material3-android, music, music-player, music-player-foss, newpipe, nvvm, streaming-apps, youtube-music, youtube-music-client",

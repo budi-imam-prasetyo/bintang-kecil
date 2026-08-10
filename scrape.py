@@ -591,8 +591,20 @@ def generate_readme(rows):
         return f'| [{r["repo"]}]({r["url"]}) | {r["stars"]:,} | {r["language"]} | {desc} |'
 
     L = []
-    L.append(f"# ⭐ {USERNAME}'s Starred Repositories\n")
+    L.append("# ⭐ My Starred Repositories\n")
     L.append(f"> {len(rows)} repositories starred on GitHub. Categorized by domain.\n")
+
+    # TOC
+    L.append("| # | Category | Repos |")
+    L.append("|---|----------|-------|")
+    toc_idx = 0
+    for cat_name, items in cats.items():
+        if not items:
+            continue
+        toc_idx += 1
+        L.append(f"| {toc_idx} | {cat_name} | {len(items)} |")
+    L.append("")
+
     L.append("---\n")
 
     for cat_name, items in cats.items():

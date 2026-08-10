@@ -2,7 +2,7 @@
   {
     "repo": "NousResearch/hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "stars": 227946,
+    "stars": 227949,
     "language": "Python",
     "description": "The agent that grows with you",
     "topics": "ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, clawdbot, codex, hermes, hermes-agent, llm, moltbot, nous-research, openai, openclaw",
@@ -13,7 +13,7 @@
   {
     "repo": "anomalyco/opencode",
     "url": "https://github.com/anomalyco/opencode",
-    "stars": 195436,
+    "stars": 195437,
     "language": "TypeScript",
     "description": "The open source coding agent.",
     "topics": "",
@@ -35,7 +35,7 @@
   {
     "repo": "ripienaar/free-for-dev",
     "url": "https://github.com/ripienaar/free-for-dev",
-    "stars": 131389,
+    "stars": 131390,
     "language": "HTML",
     "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
     "topics": "awesome-list, free-for-developers",
@@ -46,7 +46,7 @@
   {
     "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
     "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-    "stars": 115021,
+    "stars": 115022,
     "language": "Python",
     "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
     "topics": "ai-skills, antigravity, claude, claude-code, codex, command-line, copilot, cursor-ai, html5, kiro, landing-page, mobile-ui, qoder, react, tailwindcss, trae, ui-design, uikit, windsurf-ai",
@@ -57,7 +57,7 @@
   {
     "repo": "VoltAgent/awesome-design-md",
     "url": "https://github.com/VoltAgent/awesome-design-md",
-    "stars": 107454,
+    "stars": 107455,
     "language": "",
     "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agen",
     "topics": "awesome-list, design-md, design-system, design-tokens, figma, google-stitch, landing-page, vibe-coding, vibe-design, vibecoding",
@@ -112,7 +112,7 @@
   {
     "repo": "addyosmani/agent-skills",
     "url": "https://github.com/addyosmani/agent-skills",
-    "stars": 85148,
+    "stars": 85153,
     "language": "JavaScript",
     "description": "Production-grade engineering skills for AI coding agents.",
     "topics": "agent-skills, antigravity, claude-code, codex, cursor, skills",
@@ -123,7 +123,7 @@
   {
     "repo": "koala73/worldmonitor",
     "url": "https://github.com/koala73/worldmonitor",
-    "stars": 80203,
+    "stars": 80204,
     "language": "TypeScript",
     "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracki",
     "topics": "agent, ai, dashboard, geopolitics, mcp, mcp-server, monitoring, news, opensource, osint, palantir, situation",
@@ -145,7 +145,7 @@
   {
     "repo": "Panniantong/Agent-Reach",
     "url": "https://github.com/Panniantong/Agent-Reach",
-    "stars": 69741,
+    "stars": 69742,
     "language": "Python",
     "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongSh",
     "topics": "agent-infrastructure, ai-agent, ai-search, automation, bilibili, claude-code, cli, cursor, free-api, llm-tools, mcp, python, reddit-scraper, twitter-scraper, web-scraper, xiaohongshu, youtube-transcript",
@@ -189,7 +189,7 @@
   {
     "repo": "diegosouzapw/OmniRoute",
     "url": "https://github.com/diegosouzapw/OmniRoute",
-    "stars": 44298,
+    "stars": 44300,
     "language": "TypeScript",
     "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models \u2014 Kimi, Claude, GPT, OpenAI",
     "topics": "a2a, ai-agents, ai-gateway, anthropic, claude, claude-code, cline, codex, copilot, cursor, deepseek, free-ai, gemini, kimi, llm-gateway, mcp, openai, openai-proxy, qwen, token-saver",
@@ -299,12 +299,12 @@
   {
     "repo": "herdrdev/herdr",
     "url": "https://github.com/herdrdev/herdr",
-    "stars": 26432,
+    "stars": 26436,
     "language": "Rust",
     "description": "the runtime your coding agents live on",
     "topics": "agent, agent-orchestration, ai, ai-agents, claude-code, cli, codex, coding-agents, developer-tools, devtools, multiplexer, rust, terminal, terminal-multiplexer, terminal-ui, tmux, tui, workspace-manager",
     "created": "2026-03-27",
-    "forks": 1861,
+    "forks": 1862,
     "license": "Apache-2.0"
   },
   {
@@ -546,7 +546,7 @@
     "description": "Free and open source manga reader for Android",
     "topics": "android, j2k, komga, kotlin, manga, manga-downloader, manga-reader, mangadex, mangadex-downloader, mangadownloader, mangareader, mihon, neko, tachiyomi, tachiyomisy",
     "created": "2024-01-14",
-    "forks": 226,
+    "forks": 225,
     "license": "Apache-2.0"
   },
   {

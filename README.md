@@ -4,21 +4,21 @@
 
 | # | Category | Repos |
 |---|----------|-------|
-| 1 | 🤖 AI Agents & Coding Assistants | 8 |
-| 2 | 🧠 AI/ML | 4 |
-| 3 | 🎨 UI/UX & Design | 7 |
-| 4 | 📱 Mobile Apps | 11 |
-| 5 | 💻 Terminal & CLI | 15 |
-| 6 | 🖥️ Desktop Apps | 6 |
-| 7 | 🎬 Media | 1 |
-| 8 | 🌐 Web Frameworks & Backend | 7 |
-| 9 | 🔒 Self-Hosted & Privacy | 4 |
-| 10 | 📚 Curated Lists & Learning | 12 |
-| 11 | 🛡️ Security | 3 |
-| 12 | 🔧 Developer Utilities | 5 |
-| 13 | 💬 Messaging | 1 |
-| 14 | 🔧 Own Projects | 2 |
-| 15 | 🎮 Fun & Creative | 7 |
+| 1 | [🤖 AI Agents & Coding Assistants](#ai-agents--coding-assistants) | 8 |
+| 2 | [🧠 AI/ML](#aiml) | 4 |
+| 3 | [🎨 UI/UX & Design](#uiux--design) | 7 |
+| 4 | [📱 Mobile Apps](#mobile-apps) | 11 |
+| 5 | [💻 Terminal & CLI](#terminal--cli) | 15 |
+| 6 | [🖥️ Desktop Apps](#desktop-apps) | 6 |
+| 7 | [🎬 Media](#media) | 1 |
+| 8 | [🌐 Web Frameworks & Backend](#web-frameworks--backend) | 7 |
+| 9 | [🔒 Self-Hosted & Privacy](#self-hosted--privacy) | 4 |
+| 10 | [📚 Curated Lists & Learning](#curated-lists--learning) | 12 |
+| 11 | [🛡️ Security](#security) | 3 |
+| 12 | [🔧 Developer Utilities](#developer-utilities) | 5 |
+| 13 | [💬 Messaging](#messaging) | 1 |
+| 14 | [🔧 Own Projects](#own-projects) | 2 |
+| 15 | [🎮 Fun & Creative](#fun--creative) | 7 |
 
 ---
 
@@ -26,13 +26,13 @@
 
 | Repository | ⭐ | Language | Description |
 |---|---:|---|---|
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 227,946 | Python | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 195,436 | TypeScript | The open source coding agent. |
-| [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 115,021 | Python | An AI SKILL that provide design intelligence for building professional UI/UX mul |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 85,148 | JavaScript | Production-grade engineering skills for AI coding agents. |
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 69,741 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi |
-| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 44,298 | TypeScript | Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), |
-| [herdrdev/herdr](https://github.com/herdrdev/herdr) | 26,432 | Rust | the runtime your coding agents live on |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 227,949 | Python | The agent that grows with you |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 195,437 | TypeScript | The open source coding agent. |
+| [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 115,022 | Python | An AI SKILL that provide design intelligence for building professional UI/UX mul |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 85,153 | JavaScript | Production-grade engineering skills for AI coding agents. |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 69,742 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi |
+| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 44,300 | TypeScript | Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), |
+| [herdrdev/herdr](https://github.com/herdrdev/herdr) | 26,436 | Rust | the runtime your coding agents live on |
 | [decolua/9router](https://github.com/decolua/9router) | 25,071 | JavaScript | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, An |
 
 ## 🧠 AI/ML
@@ -135,8 +135,8 @@
 | Repository | ⭐ | Language | Description |
 |---|---:|---|---|
 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | 180,621 | Go | A curated list of awesome Go frameworks, libraries and software |
-| [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 131,389 | HTML | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo |
-| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | 107,454 |  | A collection of DESIGN.md files analysis by popular brand design systems. Drop o |
+| [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 131,390 | HTML | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo |
+| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | 107,455 |  | A collection of DESIGN.md files analysis by popular brand design systems. Drop o |
 | [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) | 96,594 |  | A Collection of application ideas which can be used to improve your coding skill |
 | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 89,209 | Jupyter Notebook | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all |
 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 35,658 | TypeScript | Project NOMAD is an offline-first knowledge and education server. Wikipedia, tho |
@@ -159,7 +159,7 @@
 
 | Repository | ⭐ | Language | Description |
 |---|---:|---|---|
-| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 80,203 | TypeScript | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic |
+| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 80,204 | TypeScript | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic |
 | [firecrawl/anydoc](https://github.com/firecrawl/anydoc) | 12,724 | Rust | Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean  |
 | [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) | 3,123 | TypeScript | All-in-One Native Local Development Environment for Windows, macOS & Linux. Dock |
 | [Bhanu7773-dev/DevHub](https://github.com/Bhanu7773-dev/DevHub) | 34 | Dart | A Toolkit For Devs |
@@ -199,5 +199,5 @@
 | Total starred | 93 |
 | Top language | TypeScript (28 repos) |
 | Runner-up | Rust (14), Unknown (8) |
-| Most starred | NousResearch/hermes-agent (227,946 ⭐) |
+| Most starred | NousResearch/hermes-agent (227,949 ⭐) |
 | Own repos starred | 2 |

@@ -595,6 +595,14 @@ def generate_readme(rows):
     L.append(f"> {len(rows)} repositories starred on GitHub. Categorized by domain.\n")
 
     # TOC
+    def cat_anchor(name):
+        # GitHub anchor: lowercase, strip non-alphanum except space/hyphen, space→hyphen, strip leading/trailing hyphens
+        import re
+        a = name.lower()
+        a = re.sub(r'[^a-z0-9 -]', '', a)
+        a = a.replace(' ', '-').strip('-')
+        return a
+
     L.append("| # | Category | Repos |")
     L.append("|---|----------|-------|")
     toc_idx = 0
@@ -602,7 +610,8 @@ def generate_readme(rows):
         if not items:
             continue
         toc_idx += 1
-        L.append(f"| {toc_idx} | {cat_name} | {len(items)} |")
+        anchor = cat_anchor(cat_name)
+        L.append(f"| {toc_idx} | [{cat_name}](#{anchor}) | {len(items)} |")
     L.append("")
 
     L.append("---\n")

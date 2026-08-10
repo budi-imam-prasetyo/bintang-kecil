@@ -1,4 +1,4 @@
-# ⭐ budi-imam-prasetyo's Starred Repositories
+# ⭐ My Starred Repositories
 
 > 93 repositories starred on GitHub. Categorized by domain.
 

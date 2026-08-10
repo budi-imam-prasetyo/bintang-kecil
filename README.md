@@ -2,6 +2,24 @@
 
 > 93 repositories starred on GitHub. Categorized by domain.
 
+| # | Category | Repos |
+|---|----------|-------|
+| 1 | 🤖 [AI Agents & Coding Assistants](#-ai-agents--coding-assistants) | 8 |
+| 2 | 🧠 [AI/ML](#aiml) | 4 |
+| 3 | 🎨 [UI/UX & Design](#-uiux--design) | 7 |
+| 4 | 📱 [Mobile Apps](#-mobile-apps) | 11 |
+| 5 | 💻 [Terminal & CLI](#-terminal--cli) | 15 |
+| 6 | 🖥️ [Desktop Apps](#️-desktop-apps) | 6 |
+| 7 | 🎬 [Media](#-media) | 1 |
+| 8 | 🌐 [Web Frameworks & Backend](#-web-frameworks--backend) | 7 |
+| 9 | 🔒 [Self-Hosted & Privacy](#-self-hosted--privacy) | 4 |
+| 10 | 📚 [Curated Lists & Learning](#-curated-lists--learning) | 11 |
+| 11 | 🛡️ [Security](#️-security) | 3 |
+| 12 | 🔧 [Developer Utilities](#-developer-utilities) | 5 |
+| 13 | 💬 [Messaging](#-messaging) | 1 |
+| 14 | 🔧 [Own Projects](#-own-projects) | 2 |
+| 15 | 🎮 [Fun & Creative](#-fun--creative) | 7 |
+
 ---
 
 ## 🤖 AI Agents & Coding Assistants

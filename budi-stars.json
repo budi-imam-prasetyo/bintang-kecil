@@ -2,7 +2,7 @@
   {
     "repo": "NousResearch/hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "stars": 227949,
+    "stars": 227950,
     "language": "Python",
     "description": "The agent that grows with you",
     "topics": "ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, clawdbot, codex, hermes, hermes-agent, llm, moltbot, nous-research, openai, openclaw",
@@ -57,7 +57,7 @@
   {
     "repo": "VoltAgent/awesome-design-md",
     "url": "https://github.com/VoltAgent/awesome-design-md",
-    "stars": 107455,
+    "stars": 107456,
     "language": "",
     "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agen",
     "topics": "awesome-list, design-md, design-system, design-tokens, figma, google-stitch, landing-page, vibe-coding, vibe-design, vibecoding",
@@ -112,7 +112,7 @@
   {
     "repo": "addyosmani/agent-skills",
     "url": "https://github.com/addyosmani/agent-skills",
-    "stars": 85153,
+    "stars": 85154,
     "language": "JavaScript",
     "description": "Production-grade engineering skills for AI coding agents.",
     "topics": "agent-skills, antigravity, claude-code, codex, cursor, skills",
@@ -167,7 +167,7 @@
   {
     "repo": "tw93/Pake",
     "url": "https://github.com/tw93/Pake",
-    "stars": 60533,
+    "stars": 60534,
     "language": "Rust",
     "description": "\ud83e\udd31\ud83c\udffb Turn any webpage into a desktop app with one command.",
     "topics": "chatgpt, claude, desktop, gemini, hight-performance, linux, macos, no-electron, package, rust, tauri, windows, youtube",
@@ -277,7 +277,7 @@
   {
     "repo": "sipeed/picoclaw",
     "url": "https://github.com/sipeed/picoclaw",
-    "stars": 29838,
+    "stars": 29839,
     "language": "Go",
     "description": "Tiny, Fast, and Deployable anywhere \u2014 automate the mundane, unleash your creativity",
     "topics": "",
@@ -299,7 +299,7 @@
   {
     "repo": "herdrdev/herdr",
     "url": "https://github.com/herdrdev/herdr",
-    "stars": 26436,
+    "stars": 26438,
     "language": "Rust",
     "description": "the runtime your coding agents live on",
     "topics": "agent, agent-orchestration, ai, ai-agents, claude-code, cli, codex, coding-agents, developer-tools, devtools, multiplexer, rust, terminal, terminal-multiplexer, terminal-ui, tmux, tui, workspace-manager",
@@ -431,7 +431,7 @@
   {
     "repo": "firecrawl/anydoc",
     "url": "https://github.com/firecrawl/anydoc",
-    "stars": 12724,
+    "stars": 12725,
     "language": "Rust",
     "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js an",
     "topics": "",

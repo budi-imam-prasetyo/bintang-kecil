@@ -596,11 +596,11 @@ def generate_readme(rows):
 
     # TOC
     def cat_anchor(name):
-        # GitHub anchor: lowercase, strip non-alphanum except space/hyphen, space→hyphen, strip leading/trailing hyphens
+        # GitHub github-slugger: lowercase, strip non-alphanum except space/hyphen, space→hyphen
         import re
         a = name.lower()
-        a = re.sub(r'[^a-z0-9 -]', '', a)
-        a = a.replace(' ', '-').strip('-')
+        a = re.sub(r'[^\w\s-]', '', a)
+        a = a.replace(' ', '-')
         return a
 
     L.append("| # | Category | Repos |")

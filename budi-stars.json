@@ -2,7 +2,7 @@
   {
     "repo": "NousResearch/hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "stars": 240492,
+    "stars": 240493,
     "language": "Python",
     "description": "The agent that grows with you",
     "topics": "ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, codex, hermes, hermes-agent, llm, nous-research, openai",
@@ -24,7 +24,7 @@
   {
     "repo": "avelino/awesome-go",
     "url": "https://github.com/avelino/awesome-go",
-    "stars": 183031,
+    "stars": 183032,
     "language": "Go",
     "description": "A curated list of awesome Go frameworks, libraries and software",
     "topics": "awesome, awesome-list, go, golang, golang-library, hacktoberfest",
@@ -46,7 +46,7 @@
   {
     "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
     "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-    "stars": 124512,
+    "stars": 124513,
     "language": "Python",
     "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
     "topics": "ai-skills, antigravity, claude, claude-code, codex, command-line, copilot, cursor-ai, html5, kiro, landing-page, mobile-ui, qoder, react, tailwindcss, trae, ui-design, uikit, windsurf-ai",
@@ -57,7 +57,7 @@
   {
     "repo": "VoltAgent/awesome-design-md",
     "url": "https://github.com/VoltAgent/awesome-design-md",
-    "stars": 113734,
+    "stars": 113735,
     "language": "",
     "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agen",
     "topics": "awesome-list, design-md, design-system, design-tokens, figma, google-stitch, landing-page, vibe-coding, vibe-design, vibecoding",
@@ -365,7 +365,7 @@
   {
     "repo": "decolua/9router",
     "url": "https://github.com/decolua/9router",
-    "stars": 26985,
+    "stars": 26987,
     "language": "JavaScript",
     "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via ",
     "topics": "ai-agents, ai-gateway, anthropic, chatgpt, claude, claude-code, cline, codex, copilot, cursor, deepseek, free-ai, gemini, gemini-cli, llm, llm-gateway, openai, openai-proxy, qwen, token-saver",
@@ -508,7 +508,7 @@
   {
     "repo": "browseros-ai/BrowserOS",
     "url": "https://github.com/browseros-ai/BrowserOS",
-    "stars": 13524,
+    "stars": 13525,
     "language": "TypeScript",
     "description": "\ud83c\udf10 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.",
     "topics": "agent, browser, browseros, chromium, hacktoberfest, linux, llm, lmstudio, macos, ollama, windows",

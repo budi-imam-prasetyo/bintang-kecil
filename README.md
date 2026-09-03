@@ -26,15 +26,15 @@
 
 | Repository | ⭐ | Language | Description |
 |---|---:|---|---|
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 240,492 | Python | The agent that grows with you |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 240,493 | Python | The agent that grows with you |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 203,409 | TypeScript | The open source coding agent. |
-| [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 124,512 | Python | An AI skill that provides design intelligence for building professional UI/UX ac |
+| [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 124,513 | Python | An AI skill that provides design intelligence for building professional UI/UX ac |
 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 91,845 | JavaScript | Production-grade engineering skills for AI coding agents. |
 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 77,720 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi |
 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 60,638 | TypeScript | Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), |
 | [herdrdev/herdr](https://github.com/herdrdev/herdr) | 34,970 | Rust | the runtime your coding agents live on |
 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 27,963 | TypeScript | #1 Persistent memory for AI coding agents based on real-world benchmarks |
-| [decolua/9router](https://github.com/decolua/9router) | 26,985 | JavaScript | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, An |
+| [decolua/9router](https://github.com/decolua/9router) | 26,987 | JavaScript | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, An |
 | [CodebuffAI/freebuff](https://github.com/CodebuffAI/freebuff) | 11,553 | TypeScript | The free coding agent |
 | [peters/horizon](https://github.com/peters/horizon) | 699 | Rust | GPU-accelerated terminal board that puts all your sessions on an infinite canvas |
 | [Vanszs/VansRouter](https://github.com/Vanszs/VansRouter) | 227 | JavaScript | 🆓 Lightweight Version of 9Route x Omniroute Combined Logic - Unlimited FREE AI c |
@@ -46,7 +46,7 @@
 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 96,472 | Python | real time face swap and one-click video deepfake with only a single image |
 | [janhq/jan](https://github.com/janhq/jan) | 44,312 | TypeScript | Jan is an open source alternative to ChatGPT that runs 100% offline on your comp |
 | [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 21,372 | TypeScript | Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt |
-| [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) | 13,524 | TypeScript | 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Come |
+| [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) | 13,525 | TypeScript | 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Come |
 
 ## 🎨 UI/UX & Design
 
@@ -140,9 +140,9 @@
 
 | Repository | ⭐ | Language | Description |
 |---|---:|---|---|
-| [avelino/awesome-go](https://github.com/avelino/awesome-go) | 183,031 | Go | A curated list of awesome Go frameworks, libraries and software |
+| [avelino/awesome-go](https://github.com/avelino/awesome-go) | 183,032 | Go | A curated list of awesome Go frameworks, libraries and software |
 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 136,419 | HTML | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo |
-| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | 113,734 |  | A collection of DESIGN.md files analysis by popular brand design systems. Drop o |
+| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | 113,735 |  | A collection of DESIGN.md files analysis by popular brand design systems. Drop o |
 | [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) | 97,300 |  | A Collection of application ideas which can be used to improve your coding skill |
 | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 90,079 | Jupyter Notebook | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all |
 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 36,479 | TypeScript | Project NOMAD is an offline-first knowledge and education server. Wikipedia, tho |
@@ -215,5 +215,5 @@
 | Total starred | 109 |
 | Top language | TypeScript (36 repos) |
 | Runner-up | Rust (16), Python (10) |
-| Most starred | NousResearch/hermes-agent (240,492 ⭐) |
+| Most starred | NousResearch/hermes-agent (240,493 ⭐) |
 | Own repos starred | 1 |

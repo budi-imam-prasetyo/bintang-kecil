@@ -1,0 +1,44 @@
+name: Update stars
+
+# Replaces the old bintang-kecil systemd timer (ran 06:00 + on boot on the
+# local laptop). Now the scrape runs entirely on GitHub.
+on:
+  schedule:
+    # 00:00 UTC = 07:00 WIB, daily
+    - cron: "0 0 * * *"
+  workflow_dispatch: # allow manual run via the Actions tab
+
+permissions:
+  contents: write # needed to push the generated README/JSON/CSV back
+
+concurrency:
+  group: update-stars
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Scrape starred repos
+        run: python3 scrape.py budi-imam-prasetyo
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "budi-imam-prasetyo"
+          git config user.email "budiimamprsty@gmail.com"
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git add -A
+            git commit -m "Update stars: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+            echo "Pushed update."
+          else
+            echo "No data changes — nothing to commit."
+          fi

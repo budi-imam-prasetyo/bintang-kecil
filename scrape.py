@@ -8,6 +8,7 @@ import csv
 import hashlib
 import json
 import os
+import subprocess
 import sys
 import time
 import urllib.request
@@ -67,12 +68,31 @@ def save_csv(rows):
 
 
 def detect_changes(rows):
+    """True if star data differs from the last committed state.
+
+    Preferred source: the previously committed budi-stars.json at git HEAD
+    (works both locally and in CI, where the .bak file doesn't persist).
+    Fallback: the local .bak file, for non-git usage.
+    """
+    new_rows = json.dumps(rows)
+    try:
+        head = subprocess.run(
+            ["git", "show", "HEAD:budi-stars.json"],
+            capture_output=True, text=True, check=True, cwd=DIR,
+        ).stdout
+        # Compare parsed JSON, not raw bytes: saves to disk are indented,
+        # so byte/hash comparison against json.dumps(rows) never matches.
+        if json.loads(head) == rows:
+            return False
+        return True
+    except (subprocess.CalledProcessError, FileNotFoundError, ValueError):
+        pass
+
     bak = os.path.join(DIR, "budi-stars.json.bak")
-    new_hash = hashlib.md5(json.dumps(rows).encode()).hexdigest()
     if os.path.exists(bak):
         with open(bak) as f:
             old_hash = hashlib.md5(f.read().encode()).hexdigest()
-        if old_hash == new_hash:
+        if old_hash == hashlib.md5(new_rows.encode()).hexdigest():
             return False
     with open(bak, "w") as f:
         json.dump(rows, f)

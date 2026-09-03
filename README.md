@@ -26,14 +26,14 @@
 
 | Repository | ⭐ | Language | Description |
 |---|---:|---|---|
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 240,493 | Python | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 203,409 | TypeScript | The open source coding agent. |
-| [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 124,513 | Python | An AI skill that provides design intelligence for building professional UI/UX ac |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 91,845 | JavaScript | Production-grade engineering skills for AI coding agents. |
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 77,720 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi |
-| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 60,638 | TypeScript | Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), |
-| [herdrdev/herdr](https://github.com/herdrdev/herdr) | 34,970 | Rust | the runtime your coding agents live on |
-| [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 27,963 | TypeScript | #1 Persistent memory for AI coding agents based on real-world benchmarks |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 240,496 | Python | The agent that grows with you |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 203,411 | TypeScript | The open source coding agent. |
+| [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 124,514 | Python | An AI skill that provides design intelligence for building professional UI/UX ac |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 91,847 | JavaScript | Production-grade engineering skills for AI coding agents. |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 77,721 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi |
+| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 60,642 | TypeScript | Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), |
+| [herdrdev/herdr](https://github.com/herdrdev/herdr) | 34,972 | Rust | the runtime your coding agents live on |
+| [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 27,965 | TypeScript | #1 Persistent memory for AI coding agents based on real-world benchmarks |
 | [decolua/9router](https://github.com/decolua/9router) | 26,987 | JavaScript | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, An |
 | [CodebuffAI/freebuff](https://github.com/CodebuffAI/freebuff) | 11,553 | TypeScript | The free coding agent |
 | [peters/horizon](https://github.com/peters/horizon) | 699 | Rust | GPU-accelerated terminal board that puts all your sessions on an infinite canvas |
@@ -64,7 +64,7 @@
 
 | Repository | ⭐ | Language | Description |
 |---|---:|---|---|
-| [rukamori/ArchiveTune](https://github.com/rukamori/ArchiveTune) | 5,604 | Kotlin | 🌸 The Cutest Music Player With Support Local File and Youtube Music for Android! |
+| [rukamori/ArchiveTune](https://github.com/rukamori/ArchiveTune) | 5,605 | Kotlin | 🌸 The Cutest Music Player With Support Local File and Youtube Music for Android! |
 | [komikku-app/komikku](https://github.com/komikku-app/komikku) | 4,656 | Kotlin | Free and open source manga reader for Android |
 | [risin42/NagramX](https://github.com/risin42/NagramX) | 2,224 | Java | A variant of Nagram with additional features. |
 | [pass-with-high-score/blockads-android](https://github.com/pass-with-high-score/blockads-android) | 1,925 | Kotlin | Block ads system-wide on Android using local VPN-based DNS filtering. No root ne |
@@ -101,9 +101,9 @@
 
 | Repository | ⭐ | Language | Description |
 |---|---:|---|---|
-| [tw93/Pake](https://github.com/tw93/Pake) | 61,253 | Rust | 🤱🏻 Turn any webpage into a desktop app with one command. |
+| [tw93/Pake](https://github.com/tw93/Pake) | 61,254 | Rust | 🤱🏻 Turn any webpage into a desktop app with one command. |
 | [wailsapp/wails](https://github.com/wailsapp/wails) | 36,124 | Go | Create beautiful applications using Go |
-| [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) | 23,192 | TypeScript | Create polished demo videos without editing skills. Mac/Windows/Linux |
+| [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) | 23,193 | TypeScript | Create polished demo videos without editing skills. Mac/Windows/Linux |
 | [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) | 12,747 | TypeScript | Build ultra fast, tiny, and cross-platform desktop apps with Typescript. |
 | [caamer20/Telegram-Drive](https://github.com/caamer20/Telegram-Drive) | 5,005 | TypeScript | Turn your Telegram account into an unlimited, secure cloud storage drive. an Ope |
 | [IgorMundstein/WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) | 4,996 | C# | This free RAM cleaner uses native Windows features to optimize memory areas. It' |
@@ -118,7 +118,7 @@
 
 | Repository | ⭐ | Language | Description |
 |---|---:|---|---|
-| [oven-sh/bun](https://github.com/oven-sh/bun) | 95,861 | Rust | Incredibly fast JavaScript runtime, bundler, test runner, and package manager –  |
+| [oven-sh/bun](https://github.com/oven-sh/bun) | 95,863 | Rust | Incredibly fast JavaScript runtime, bundler, test runner, and package manager –  |
 | [strapi/strapi](https://github.com/strapi/strapi) | 73,064 | TypeScript | 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScrip |
 | [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) | 60,927 | Go | Open Source realtime backend in 1 file |
 | [elysiajs/elysia](https://github.com/elysiajs/elysia) | 19,069 | TypeScript | Ergonomic Framework for Humans |
@@ -141,8 +141,8 @@
 | Repository | ⭐ | Language | Description |
 |---|---:|---|---|
 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | 183,032 | Go | A curated list of awesome Go frameworks, libraries and software |
-| [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 136,419 | HTML | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo |
-| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | 113,735 |  | A collection of DESIGN.md files analysis by popular brand design systems. Drop o |
+| [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 136,420 | HTML | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo |
+| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | 113,738 |  | A collection of DESIGN.md files analysis by popular brand design systems. Drop o |
 | [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) | 97,300 |  | A Collection of application ideas which can be used to improve your coding skill |
 | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 90,079 | Jupyter Notebook | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all |
 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 36,479 | TypeScript | Project NOMAD is an offline-first knowledge and education server. Wikipedia, tho |
@@ -167,8 +167,8 @@
 | Repository | ⭐ | Language | Description |
 |---|---:|---|---|
 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 85,453 | TypeScript | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic |
-| [firecrawl/anydoc](https://github.com/firecrawl/anydoc) | 20,153 | Rust | Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean  |
-| [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) | 3,189 | TypeScript | Native local development environment for Windows, macOS & Linux. A modern altern |
+| [firecrawl/anydoc](https://github.com/firecrawl/anydoc) | 20,154 | Rust | Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean  |
+| [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) | 3,190 | TypeScript | Native local development environment for Windows, macOS & Linux. A modern altern |
 | [lerd-env/lerd](https://github.com/lerd-env/lerd) | 1,250 | Go | Open-source, Herd-like local PHP development environment for Linux and macOS. Au |
 | [Bhanu7773-dev/DevHub](https://github.com/Bhanu7773-dev/DevHub) | 34 | Dart | A Toolkit For Devs |
 | [jow4h/URBoard](https://github.com/jow4h/URBoard) | 25 | TypeScript | — |
@@ -194,12 +194,12 @@
 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 34,257 | PowerShell | Reverse Engineering / Authorized Penetration Testing / Security Research Skill R |
 | [nicolargo/glances](https://github.com/nicolargo/glances) | 33,515 | Python | Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS  |
 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 29,935 | Go | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativ |
-| [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | 19,724 | TypeScript | A self-improving RLM agent for coding workflows and long-running autonomous task |
-| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 16,616 | JavaScript | A spy satellite simulator in your browser, except the data is real. Live open so |
+| [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | 19,725 | TypeScript | A self-improving RLM agent for coding workflows and long-running autonomous task |
+| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 16,620 | JavaScript | A spy satellite simulator in your browser, except the data is real. Live open so |
 | [EVV1E/waylandcraft](https://github.com/EVV1E/waylandcraft) | 2,803 | Java | Wayland Compositor in Minecraft |
-| [AdventDevInc/kudu](https://github.com/AdventDevInc/kudu) | 2,424 | TypeScript | Free Windows, Mac and Linux cleaner, scanner, and more. |
+| [AdventDevInc/kudu](https://github.com/AdventDevInc/kudu) | 2,425 | TypeScript | Free Windows, Mac and Linux cleaner, scanner, and more. |
 | [levy-street/world-of-claudecraft](https://github.com/levy-street/world-of-claudecraft) | 2,239 | TypeScript | — |
-| [jeremy-prt/bloub](https://github.com/jeremy-prt/bloub) | 1,119 | TypeScript | SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, mea |
+| [jeremy-prt/bloub](https://github.com/jeremy-prt/bloub) | 1,121 | TypeScript | SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, mea |
 | [hasanharman/isomiddleearth](https://github.com/hasanharman/isomiddleearth) | 830 | TypeScript | An isometric world‑builder set in Tolkien’s Middle‑earth, where you create and s |
 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 236 | Rust | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall |
 | [kenairforces/NGL-SPAMMER](https://github.com/kenairforces/NGL-SPAMMER) | 22 | Python | this is tools based python for spam ngl.link |
@@ -215,5 +215,5 @@
 | Total starred | 109 |
 | Top language | TypeScript (36 repos) |
 | Runner-up | Rust (16), Python (10) |
-| Most starred | NousResearch/hermes-agent (240,493 ⭐) |
+| Most starred | NousResearch/hermes-agent (240,496 ⭐) |
 | Own repos starred | 1 |

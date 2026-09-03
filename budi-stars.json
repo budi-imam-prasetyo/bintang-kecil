@@ -2,23 +2,23 @@
   {
     "repo": "NousResearch/hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "stars": 240493,
+    "stars": 240496,
     "language": "Python",
     "description": "The agent that grows with you",
     "topics": "ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, codex, hermes, hermes-agent, llm, nous-research, openai",
     "created": "2025-07-22",
-    "forks": 49233,
+    "forks": 49234,
     "license": "MIT"
   },
   {
     "repo": "anomalyco/opencode",
     "url": "https://github.com/anomalyco/opencode",
-    "stars": 203409,
+    "stars": 203411,
     "language": "TypeScript",
     "description": "The open source coding agent.",
     "topics": "",
     "created": "2025-04-30",
-    "forks": 26534,
+    "forks": 26533,
     "license": "MIT"
   },
   {
@@ -35,18 +35,18 @@
   {
     "repo": "ripienaar/free-for-dev",
     "url": "https://github.com/ripienaar/free-for-dev",
-    "stars": 136419,
+    "stars": 136420,
     "language": "HTML",
     "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
     "topics": "awesome-list, free-for-developers",
     "created": "2015-03-18",
-    "forks": 14317,
+    "forks": 14319,
     "license": ""
   },
   {
     "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
     "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-    "stars": 124513,
+    "stars": 124514,
     "language": "Python",
     "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
     "topics": "ai-skills, antigravity, claude, claude-code, codex, command-line, copilot, cursor-ai, html5, kiro, landing-page, mobile-ui, qoder, react, tailwindcss, trae, ui-design, uikit, windsurf-ai",
@@ -57,12 +57,12 @@
   {
     "repo": "VoltAgent/awesome-design-md",
     "url": "https://github.com/VoltAgent/awesome-design-md",
-    "stars": 113735,
+    "stars": 113738,
     "language": "",
     "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agen",
     "topics": "awesome-list, design-md, design-system, design-tokens, figma, google-stitch, landing-page, vibe-coding, vibe-design, vibecoding",
     "created": "2026-03-31",
-    "forks": 12841,
+    "forks": 12842,
     "license": "MIT"
   },
   {
@@ -90,7 +90,7 @@
   {
     "repo": "oven-sh/bun",
     "url": "https://github.com/oven-sh/bun",
-    "stars": 95861,
+    "stars": 95863,
     "language": "Rust",
     "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager \u2013 all in one",
     "topics": "bun, bundler, javascript, javascriptcore, jsx, nodejs, npm, react, rust, rust-lang, transpiler, typescript",
@@ -101,7 +101,7 @@
   {
     "repo": "addyosmani/agent-skills",
     "url": "https://github.com/addyosmani/agent-skills",
-    "stars": 91845,
+    "stars": 91847,
     "language": "JavaScript",
     "description": "Production-grade engineering skills for AI coding agents.",
     "topics": "agent-skills, antigravity, claude-code, codex, cursor, skills",
@@ -145,7 +145,7 @@
   {
     "repo": "Panniantong/Agent-Reach",
     "url": "https://github.com/Panniantong/Agent-Reach",
-    "stars": 77720,
+    "stars": 77721,
     "language": "Python",
     "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongSh",
     "topics": "agent-infrastructure, ai-agent, ai-search, automation, bilibili, claude-code, cli, cursor, free-api, llm-tools, mcp, python, reddit-scraper, twitter-scraper, web-scraper, xiaohongshu, youtube-transcript",
@@ -167,7 +167,7 @@
   {
     "repo": "tw93/Pake",
     "url": "https://github.com/tw93/Pake",
-    "stars": 61253,
+    "stars": 61254,
     "language": "Rust",
     "description": "\ud83e\udd31\ud83c\udffb Turn any webpage into a desktop app with one command.",
     "topics": "chatgpt, claude, desktop, gemini, hight-performance, linux, macos, no-electron, package, rust, tauri, windows, youtube",
@@ -189,7 +189,7 @@
   {
     "repo": "diegosouzapw/OmniRoute",
     "url": "https://github.com/diegosouzapw/OmniRoute",
-    "stars": 60638,
+    "stars": 60642,
     "language": "TypeScript",
     "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini,",
     "topics": "a2a, ai-agents, ai-gateway, anthropic, claude, claude-code, cline, codex, copilot, cursor, deepseek, free-ai, gemini, kimi, llm-gateway, mcp, openai, openai-proxy, qwen, token-saver",
@@ -277,7 +277,7 @@
   {
     "repo": "herdrdev/herdr",
     "url": "https://github.com/herdrdev/herdr",
-    "stars": 34970,
+    "stars": 34972,
     "language": "Rust",
     "description": "the runtime your coding agents live on",
     "topics": "agent, agent-orchestration, ai, ai-agents, claude-code, cli, codex, coding-agents, developer-tools, devtools, multiplexer, rust, terminal, terminal-multiplexer, terminal-ui, tmux, tui, workspace-manager",
@@ -337,13 +337,13 @@
     "description": "Tiny, Fast, and Deployable anywhere \u2014 automate the mundane, unleash your creativity",
     "topics": "",
     "created": "2026-02-04",
-    "forks": 4458,
+    "forks": 4459,
     "license": "MIT"
   },
   {
     "repo": "rohitg00/agentmemory",
     "url": "https://github.com/rohitg00/agentmemory",
-    "stars": 27963,
+    "stars": 27965,
     "language": "TypeScript",
     "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
     "topics": "agentmemory, agents, ai, claude, claudecode, codex, copilot, cursor, genai, harness, hermes, memory, openclaw",
@@ -387,7 +387,7 @@
   {
     "repo": "webadderallorg/Recordly",
     "url": "https://github.com/webadderallorg/Recordly",
-    "stars": 23192,
+    "stars": 23193,
     "language": "TypeScript",
     "description": "Create polished demo videos without editing skills. Mac/Windows/Linux",
     "topics": "electron, free, linux, macos, open-source, screen-recorder, screen-studio, windows",
@@ -442,7 +442,7 @@
   {
     "repo": "firecrawl/anydoc",
     "url": "https://github.com/firecrawl/anydoc",
-    "stars": 20153,
+    "stars": 20154,
     "language": "Rust",
     "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js an",
     "topics": "",
@@ -453,7 +453,7 @@
   {
     "repo": "PrimeIntellect-ai/prime-agent",
     "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-    "stars": 19724,
+    "stars": 19725,
     "language": "TypeScript",
     "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
     "topics": "",
@@ -475,12 +475,12 @@
   {
     "repo": "bilawalsidhu/gods-eye-view",
     "url": "https://github.com/bilawalsidhu/gods-eye-view",
-    "stars": 16616,
+    "stars": 16620,
     "language": "JavaScript",
     "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photoreal",
     "topics": "3d-globe, cesium, flight-tracking, geospatial, geospatial-intelligence, gis, osint, photogrammetry, satellite-tracking, spatial-intelligence, webgl, worldview",
     "created": "2026-06-22",
-    "forks": 3329,
+    "forks": 3330,
     "license": "NOASSERTION"
   },
   {
@@ -629,7 +629,7 @@
   {
     "repo": "rukamori/ArchiveTune",
     "url": "https://github.com/rukamori/ArchiveTune",
-    "stars": 5604,
+    "stars": 5605,
     "language": "Kotlin",
     "description": "\ud83c\udf38 The Cutest Music Player With Support Local File and Youtube Music for Android!",
     "topics": "android-application, android-studio, foss, jetpack-compose, kotlin, material-design, material-ui, material3, material3-android, music, music-player, music-player-foss, newpipe, nvvm, streaming-apps, youtube-music, youtube-music-client",
@@ -706,7 +706,7 @@
   {
     "repo": "xpf0000/FlyEnv",
     "url": "https://github.com/xpf0000/FlyEnv",
-    "stars": 3189,
+    "stars": 3190,
     "language": "TypeScript",
     "description": "Native local development environment for Windows, macOS & Linux. A modern alternative to XAMPP, MAMP, Laragon and Larave",
     "topics": "dev-environment, developer-tools, development-environment, docker-alternative, docker-alternatives, laragon-alternative, laravel-herd-alternative, linux, local-development, mamp-alternative, mcp, mcp-server, mysql, nginx, nodejs, php, postgresql, python, redis, xampp-alternative",
@@ -750,7 +750,7 @@
   {
     "repo": "AdventDevInc/kudu",
     "url": "https://github.com/AdventDevInc/kudu",
-    "stars": 2424,
+    "stars": 2425,
     "language": "TypeScript",
     "description": "Free Windows, Mac and Linux cleaner, scanner, and more.",
     "topics": "ccleaner-alternative, cleaner, free, hardening, kudu, linux-cleaner, mac-cleaner, malware-detection, open-source, pc-optimization, performance, privacy, scanner, security, startup-manager, system-cleaner, system-maintenance, windows-cleaner",
@@ -871,7 +871,7 @@
   {
     "repo": "jeremy-prt/bloub",
     "url": "https://github.com/jeremy-prt/bloub",
-    "stars": 1119,
+    "stars": 1121,
     "language": "TypeScript",
     "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by f",
     "topics": "animation, avatar, morphing, svg, svg-animation, typescript, vue",

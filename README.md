@@ -26,11 +26,11 @@
 | Repository | ⭐ | Language | Description |
 |---|---:|---|---|
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 241,536 | Python | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 204,177 | TypeScript | The open source coding agent. |
-| [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 125,048 | Python | An AI skill that provides design intelligence for building professional UI/UX ac |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 204,178 | TypeScript | The open source coding agent. |
+| [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 125,049 | Python | An AI skill that provides design intelligence for building professional UI/UX ac |
 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 92,294 | JavaScript | Production-grade engineering skills for AI coding agents. |
 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 78,054 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi |
-| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 61,282 | TypeScript | Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), |
+| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 61,283 | TypeScript | Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), |
 | [herdrdev/herdr](https://github.com/herdrdev/herdr) | 35,368 | Rust | the runtime your coding agents live on |
 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 29,937 | Go | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativ |
 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 28,026 | TypeScript | #1 Persistent memory for AI coding agents based on real-world benchmarks |
@@ -54,7 +54,7 @@
 
 | Repository | ⭐ | Language | Description |
 |---|---:|---|---|
-| [tldraw/tldraw](https://github.com/tldraw/tldraw) | 50,142 | TypeScript | Build infinite canvas apps in React with the tldraw SDK. World's best, top-most  |
+| [tldraw/tldraw](https://github.com/tldraw/tldraw) | 50,143 | TypeScript | Build infinite canvas apps in React with the tldraw SDK. World's best, top-most  |
 | [playcanvas/supersplat](https://github.com/playcanvas/supersplat) | 9,947 | TypeScript | 3D Gaussian Splat Editor |
 | [nativewind/nativewind](https://github.com/nativewind/nativewind) | 8,081 | TypeScript | The utility-first workflow you love from Tailwind CSS in your React Native appli |
 | [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) | 3,320 | TypeScript | Extract any website’s design system into tokens in seconds: logo, colors, typogr |

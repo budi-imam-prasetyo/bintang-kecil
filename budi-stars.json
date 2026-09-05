@@ -13,7 +13,7 @@
   {
     "repo": "anomalyco/opencode",
     "url": "https://github.com/anomalyco/opencode",
-    "stars": 204177,
+    "stars": 204178,
     "language": "TypeScript",
     "description": "The open source coding agent.",
     "topics": "",
@@ -46,7 +46,7 @@
   {
     "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
     "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-    "stars": 125048,
+    "stars": 125049,
     "language": "Python",
     "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
     "topics": "ai-skills, antigravity, claude, claude-code, codex, command-line, copilot, cursor-ai, html5, kiro, landing-page, mobile-ui, qoder, react, tailwindcss, trae, ui-design, uikit, windsurf-ai",
@@ -178,12 +178,12 @@
   {
     "repo": "diegosouzapw/OmniRoute",
     "url": "https://github.com/diegosouzapw/OmniRoute",
-    "stars": 61282,
+    "stars": 61283,
     "language": "TypeScript",
     "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini,",
     "topics": "a2a, ai-agents, ai-gateway, anthropic, claude, claude-code, cline, codex, copilot, cursor, deepseek, free-ai, gemini, kimi, llm-gateway, mcp, openai, openai-proxy, qwen, token-saver",
     "created": "2026-02-13",
-    "forks": 8533,
+    "forks": 8535,
     "license": "MIT"
   },
   {
@@ -200,7 +200,7 @@
   {
     "repo": "tldraw/tldraw",
     "url": "https://github.com/tldraw/tldraw",
-    "stars": 50142,
+    "stars": 50143,
     "language": "TypeScript",
     "description": "Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.",
     "topics": "canvas, collaboration, design, diagram, drawing, infinite, multiplayer, react, sdk, sketch, sync, whiteboard",

@@ -25,7 +25,7 @@
 
 | Repository | ⭐ | Language | Description |
 |---|---:|---|---|
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 241,535 | Python | The agent that grows with you |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 241,536 | Python | The agent that grows with you |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 204,177 | TypeScript | The open source coding agent. |
 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 125,048 | Python | An AI skill that provides design intelligence for building professional UI/UX ac |
 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 92,294 | JavaScript | Production-grade engineering skills for AI coding agents. |
@@ -122,7 +122,7 @@
 
 | Repository | ⭐ | Language | Description |
 |---|---:|---|---|
-| [oven-sh/bun](https://github.com/oven-sh/bun) | 95,880 | Rust | Incredibly fast JavaScript runtime, bundler, test runner, and package manager –  |
+| [oven-sh/bun](https://github.com/oven-sh/bun) | 95,881 | Rust | Incredibly fast JavaScript runtime, bundler, test runner, and package manager –  |
 | [strapi/strapi](https://github.com/strapi/strapi) | 73,071 | TypeScript | 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScrip |
 | [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) | 60,948 | Go | Open Source realtime backend in 1 file |
 | [elysiajs/elysia](https://github.com/elysiajs/elysia) | 19,080 | TypeScript | Ergonomic Framework for Humans |
@@ -147,7 +147,7 @@
 |---|---:|---|---|
 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | 183,170 | Go | A curated list of awesome Go frameworks, libraries and software |
 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 136,578 | HTML | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo |
-| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | 114,114 |  | A collection of DESIGN.md files analysis by popular brand design systems. Drop o |
+| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | 114,115 |  | A collection of DESIGN.md files analysis by popular brand design systems. Drop o |
 | [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) | 97,345 |  | A Collection of application ideas which can be used to improve your coding skill |
 | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 90,136 | Jupyter Notebook | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all |
 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 36,509 | TypeScript | Project NOMAD is an offline-first knowledge and education server. Wikipedia, tho |
@@ -173,7 +173,7 @@
 | Repository | ⭐ | Language | Description |
 |---|---:|---|---|
 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 85,577 | TypeScript | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic |
-| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 78,438 | Python | 🕷️ An adaptive Web Scraping framework that handles everything from a single requ |
+| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 78,439 | Python | 🕷️ An adaptive Web Scraping framework that handles everything from a single requ |
 | [firecrawl/anydoc](https://github.com/firecrawl/anydoc) | 20,338 | Rust | Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean  |
 | [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) | 3,191 | TypeScript | Native local development environment for Windows, macOS & Linux. A modern altern |
 | [lerd-env/lerd](https://github.com/lerd-env/lerd) | 1,254 | Go | Open-source, Herd-like local PHP development environment for Linux and macOS. Au |
@@ -192,7 +192,7 @@
 | Repository | ⭐ | Language | Description |
 |---|---:|---|---|
 | [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | 35,621 | TypeScript | A next.js web application that integrates AI capabilities with draw.io diagrams. |
-| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 17,558 | JavaScript | A spy satellite simulator in your browser, except the data is real. Live open so |
+| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 17,560 | JavaScript | A spy satellite simulator in your browser, except the data is real. Live open so |
 | [EVV1E/waylandcraft](https://github.com/EVV1E/waylandcraft) | 2,819 | Java | Wayland Compositor in Minecraft |
 | [levy-street/world-of-claudecraft](https://github.com/levy-street/world-of-claudecraft) | 2,242 | TypeScript | — |
 | [jeremy-prt/bloub](https://github.com/jeremy-prt/bloub) | 1,197 | TypeScript | SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, mea |
@@ -210,5 +210,5 @@
 | Total starred | 110 |
 | Top language | TypeScript (35 repos) |
 | Runner-up | Rust (18), Python (10) |
-| Most starred | NousResearch/hermes-agent (241,535 ⭐) |
+| Most starred | NousResearch/hermes-agent (241,536 ⭐) |
 | Own repos starred | 0 |

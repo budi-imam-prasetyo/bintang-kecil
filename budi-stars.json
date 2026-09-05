@@ -2,29 +2,29 @@
   {
     "repo": "NousResearch/hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "stars": 241506,
+    "stars": 241535,
     "language": "Python",
     "description": "The agent that grows with you",
     "topics": "ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, codex, hermes, hermes-agent, llm, nous-research, openai",
     "created": "2025-07-22",
-    "forks": 49568,
+    "forks": 49575,
     "license": "MIT"
   },
   {
     "repo": "anomalyco/opencode",
     "url": "https://github.com/anomalyco/opencode",
-    "stars": 204146,
+    "stars": 204177,
     "language": "TypeScript",
     "description": "The open source coding agent.",
     "topics": "",
     "created": "2025-04-30",
-    "forks": 26634,
+    "forks": 26639,
     "license": "MIT"
   },
   {
     "repo": "avelino/awesome-go",
     "url": "https://github.com/avelino/awesome-go",
-    "stars": 183169,
+    "stars": 183170,
     "language": "Go",
     "description": "A curated list of awesome Go frameworks, libraries and software",
     "topics": "awesome, awesome-list, go, golang, golang-library, hacktoberfest",
@@ -35,40 +35,40 @@
   {
     "repo": "ripienaar/free-for-dev",
     "url": "https://github.com/ripienaar/free-for-dev",
-    "stars": 136575,
+    "stars": 136578,
     "language": "HTML",
     "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
     "topics": "awesome-list, free-for-developers",
     "created": "2015-03-18",
-    "forks": 14353,
+    "forks": 14352,
     "license": ""
   },
   {
     "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
     "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-    "stars": 125039,
+    "stars": 125048,
     "language": "Python",
     "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
     "topics": "ai-skills, antigravity, claude, claude-code, codex, command-line, copilot, cursor-ai, html5, kiro, landing-page, mobile-ui, qoder, react, tailwindcss, trae, ui-design, uikit, windsurf-ai",
     "created": "2025-11-30",
-    "forks": 13393,
+    "forks": 13394,
     "license": "MIT"
   },
   {
     "repo": "VoltAgent/awesome-design-md",
     "url": "https://github.com/VoltAgent/awesome-design-md",
-    "stars": 114104,
+    "stars": 114114,
     "language": "",
     "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agen",
     "topics": "awesome-list, design-md, design-system, design-tokens, figma, google-stitch, landing-page, vibe-coding, vibe-design, vibecoding",
     "created": "2026-03-31",
-    "forks": 12878,
+    "forks": 12881,
     "license": "MIT"
   },
   {
     "repo": "florinpop17/app-ideas",
     "url": "https://github.com/florinpop17/app-ideas",
-    "stars": 97343,
+    "stars": 97345,
     "language": "",
     "description": "A Collection of application ideas which can be used to improve your coding skills.",
     "topics": "applications, coding, codingchallenges, css, hacktoberfest, html, ideas, javascript, practice",
@@ -90,18 +90,18 @@
   {
     "repo": "oven-sh/bun",
     "url": "https://github.com/oven-sh/bun",
-    "stars": 95879,
+    "stars": 95880,
     "language": "Rust",
     "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager \u2013 all in one",
     "topics": "bun, bundler, javascript, javascriptcore, jsx, nodejs, npm, react, rust, rust-lang, transpiler, typescript",
     "created": "2021-04-14",
-    "forks": 5032,
+    "forks": 5033,
     "license": "NOASSERTION"
   },
   {
     "repo": "addyosmani/agent-skills",
     "url": "https://github.com/addyosmani/agent-skills",
-    "stars": 92284,
+    "stars": 92294,
     "language": "JavaScript",
     "description": "Production-grade engineering skills for AI coding agents.",
     "topics": "agent-skills, antigravity, claude-code, codex, cursor, skills",
@@ -123,7 +123,7 @@
   {
     "repo": "koala73/worldmonitor",
     "url": "https://github.com/koala73/worldmonitor",
-    "stars": 85574,
+    "stars": 85577,
     "language": "TypeScript",
     "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracki",
     "topics": "agent, ai, dashboard, geopolitics, mcp, mcp-server, monitoring, news, opensource, osint, palantir, situation",
@@ -134,7 +134,7 @@
   {
     "repo": "D4Vinci/Scrapling",
     "url": "https://github.com/D4Vinci/Scrapling",
-    "stars": 78436,
+    "stars": 78438,
     "language": "Python",
     "description": "\ud83d\udd77\ufe0f An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
     "topics": "ai, ai-scraping, automation, crawler, crawling, crawling-python, data, data-extraction, mcp, mcp-server, playwright, python, scraping, selectors, stealth, web-scraper, web-scraping, web-scraping-python, webscraping, xpath",
@@ -145,12 +145,12 @@
   {
     "repo": "Panniantong/Agent-Reach",
     "url": "https://github.com/Panniantong/Agent-Reach",
-    "stars": 78043,
+    "stars": 78054,
     "language": "Python",
     "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongSh",
     "topics": "agent-infrastructure, ai-agent, ai-search, automation, bilibili, claude-code, cli, cursor, free-api, llm-tools, mcp, python, reddit-scraper, twitter-scraper, web-scraper, xiaohongshu, youtube-transcript",
     "created": "2026-02-24",
-    "forks": 6723,
+    "forks": 6724,
     "license": "MIT"
   },
   {
@@ -167,23 +167,23 @@
   {
     "repo": "tw93/Pake",
     "url": "https://github.com/tw93/Pake",
-    "stars": 61283,
+    "stars": 61284,
     "language": "Rust",
     "description": "\ud83e\udd31\ud83c\udffb Turn any webpage into a desktop app with one command.",
     "topics": "chatgpt, claude, desktop, gemini, hight-performance, linux, macos, no-electron, package, rust, tauri, windows, youtube",
     "created": "2022-10-14",
-    "forks": 12608,
+    "forks": 12609,
     "license": "GPL-3.0"
   },
   {
     "repo": "diegosouzapw/OmniRoute",
     "url": "https://github.com/diegosouzapw/OmniRoute",
-    "stars": 61268,
+    "stars": 61282,
     "language": "TypeScript",
     "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini,",
     "topics": "a2a, ai-agents, ai-gateway, anthropic, claude, claude-code, cline, codex, copilot, cursor, deepseek, free-ai, gemini, kimi, llm-gateway, mcp, openai, openai-proxy, qwen, token-saver",
     "created": "2026-02-13",
-    "forks": 8532,
+    "forks": 8533,
     "license": "MIT"
   },
   {
@@ -222,7 +222,7 @@
   {
     "repo": "juanfont/headscale",
     "url": "https://github.com/juanfont/headscale",
-    "stars": 43557,
+    "stars": 43559,
     "language": "Go",
     "description": "An open source, self-hosted implementation of the Tailscale control server",
     "topics": "tailscale, tailscale-control-server, tailscale-server, wireguard",
@@ -233,7 +233,7 @@
   {
     "repo": "Crosstalk-Solutions/project-nomad",
     "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-    "stars": 36507,
+    "stars": 36509,
     "language": "TypeScript",
     "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and opti",
     "topics": "",
@@ -255,7 +255,7 @@
   {
     "repo": "DayuanJiang/next-ai-draw-io",
     "url": "https://github.com/DayuanJiang/next-ai-draw-io",
-    "stars": 35618,
+    "stars": 35621,
     "language": "TypeScript",
     "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, ",
     "topics": "ai, diagrams, productivity",
@@ -266,34 +266,34 @@
   {
     "repo": "herdrdev/herdr",
     "url": "https://github.com/herdrdev/herdr",
-    "stars": 35356,
+    "stars": 35368,
     "language": "Rust",
     "description": "the runtime your coding agents live on",
     "topics": "agent, agent-orchestration, ai, ai-agents, claude-code, cli, codex, coding-agents, developer-tools, devtools, multiplexer, rust, terminal, terminal-multiplexer, terminal-ui, tmux, tui, workspace-manager",
     "created": "2026-03-27",
-    "forks": 2590,
+    "forks": 2592,
     "license": "Apache-2.0"
   },
   {
     "repo": "zellij-org/zellij",
     "url": "https://github.com/zellij-org/zellij",
-    "stars": 35284,
+    "stars": 35287,
     "language": "Rust",
     "description": "A terminal workspace with batteries included",
     "topics": "multiplexer, terminal, workspace",
     "created": "2020-09-01",
-    "forks": 1428,
+    "forks": 1429,
     "license": "MIT"
   },
   {
     "repo": "zhaoxuya520/reverse-skill",
     "url": "https://github.com/zhaoxuya520/reverse-skill",
-    "stars": 34580,
+    "stars": 34585,
     "language": "PowerShell",
     "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-deman",
     "topics": "",
     "created": "2026-05-13",
-    "forks": 4694,
+    "forks": 4698,
     "license": "MIT"
   },
   {
@@ -332,7 +332,7 @@
   {
     "repo": "sipeed/picoclaw",
     "url": "https://github.com/sipeed/picoclaw",
-    "stars": 29938,
+    "stars": 29937,
     "language": "Go",
     "description": "Tiny, Fast, and Deployable anywhere \u2014 automate the mundane, unleash your creativity",
     "topics": "",
@@ -343,7 +343,7 @@
   {
     "repo": "rohitg00/agentmemory",
     "url": "https://github.com/rohitg00/agentmemory",
-    "stars": 28021,
+    "stars": 28026,
     "language": "TypeScript",
     "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
     "topics": "agentmemory, agents, ai, claude, claudecode, codex, copilot, cursor, genai, harness, hermes, memory, openclaw",
@@ -354,7 +354,7 @@
   {
     "repo": "charmbracelet/glow",
     "url": "https://github.com/charmbracelet/glow",
-    "stars": 27190,
+    "stars": 27191,
     "language": "Go",
     "description": "Render markdown on the CLI, with pizzazz! \ud83d\udc85\ud83c\udffb",
     "topics": "cli, excitement, hacktoberfest, markdown",
@@ -365,12 +365,12 @@
   {
     "repo": "decolua/9router",
     "url": "https://github.com/decolua/9router",
-    "stars": 27103,
+    "stars": 27107,
     "language": "JavaScript",
     "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via ",
     "topics": "ai-agents, ai-gateway, anthropic, chatgpt, claude, claude-code, cline, codex, copilot, cursor, deepseek, free-ai, gemini, gemini-cli, llm, llm-gateway, openai, openai-proxy, qwen, token-saver",
     "created": "2026-01-05",
-    "forks": 4974,
+    "forks": 4976,
     "license": "MIT"
   },
   {
@@ -387,7 +387,7 @@
   {
     "repo": "webadderallorg/Recordly",
     "url": "https://github.com/webadderallorg/Recordly",
-    "stars": 23309,
+    "stars": 23313,
     "language": "TypeScript",
     "description": "Create polished demo videos without editing skills. Mac/Windows/Linux",
     "topics": "electron, free, linux, macos, open-source, screen-recorder, screen-studio, windows",
@@ -442,18 +442,18 @@
   {
     "repo": "firecrawl/anydoc",
     "url": "https://github.com/firecrawl/anydoc",
-    "stars": 20335,
+    "stars": 20338,
     "language": "Rust",
     "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js an",
     "topics": "",
     "created": "2026-08-03",
-    "forks": 1234,
+    "forks": 1235,
     "license": "MIT"
   },
   {
     "repo": "PrimeIntellect-ai/prime-agent",
     "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-    "stars": 19875,
+    "stars": 19877,
     "language": "TypeScript",
     "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
     "topics": "",
@@ -464,7 +464,7 @@
   {
     "repo": "elysiajs/elysia",
     "url": "https://github.com/elysiajs/elysia",
-    "stars": 19079,
+    "stars": 19080,
     "language": "TypeScript",
     "description": "Ergonomic Framework for Humans",
     "topics": "bun, framework, http, server, typescript, web",
@@ -475,18 +475,18 @@
   {
     "repo": "bilawalsidhu/gods-eye-view",
     "url": "https://github.com/bilawalsidhu/gods-eye-view",
-    "stars": 17531,
+    "stars": 17558,
     "language": "JavaScript",
     "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photoreal",
     "topics": "3d-globe, cesium, flight-tracking, geospatial, geospatial-intelligence, gis, osint, photogrammetry, satellite-tracking, spatial-intelligence, webgl, worldview",
     "created": "2026-06-22",
-    "forks": 3537,
+    "forks": 3543,
     "license": "NOASSERTION"
   },
   {
     "repo": "espanso/espanso",
     "url": "https://github.com/espanso/espanso",
-    "stars": 14425,
+    "stars": 14426,
     "language": "Rust",
     "description": "A Privacy-first, Cross-platform Text Expander written in Rust",
     "topics": "espanso, linux, macos, productivity, productivity-tools, rust, text-expander, windows",
@@ -508,7 +508,7 @@
   {
     "repo": "browseros-ai/BrowserOS",
     "url": "https://github.com/browseros-ai/BrowserOS",
-    "stars": 13548,
+    "stars": 13550,
     "language": "TypeScript",
     "description": "\ud83c\udf10 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.",
     "topics": "agent, browser, browseros, chromium, hacktoberfest, linux, llm, lmstudio, macos, ollama, windows",
@@ -541,12 +541,12 @@
   {
     "repo": "CodebuffAI/freebuff",
     "url": "https://github.com/CodebuffAI/freebuff",
-    "stars": 11632,
+    "stars": 11634,
     "language": "TypeScript",
     "description": "The free coding agent",
     "topics": "",
     "created": "2024-07-09",
-    "forks": 1250,
+    "forks": 1251,
     "license": "Apache-2.0"
   },
   {
@@ -563,7 +563,7 @@
   {
     "repo": "nexmoe/VidBee",
     "url": "https://github.com/nexmoe/VidBee",
-    "stars": 10528,
+    "stars": 10529,
     "language": "TypeScript",
     "description": "Download video and audio from  YouTube ,  TikTok ,  Twitter ,  Instagram ,  Facebook ,  Twitch ,  Bilibili , and 1000+ s",
     "topics": "downloader, facebook, tiktok, twitter, youtube",
@@ -596,7 +596,7 @@
   {
     "repo": "crynta/terax-ai",
     "url": "https://github.com/crynta/terax-ai",
-    "stars": 9161,
+    "stars": 9162,
     "language": "TypeScript",
     "description": "Lightweight (7MB) Terminal-first AI-native dev workspace",
     "topics": "agents, ai, code-editor, linux, macos, reactjs, rust, tauri, terminal, windows, xterm-js",
@@ -629,7 +629,7 @@
   {
     "repo": "rukamori/ArchiveTune",
     "url": "https://github.com/rukamori/ArchiveTune",
-    "stars": 5671,
+    "stars": 5672,
     "language": "Kotlin",
     "description": "\ud83c\udf38 The Cutest Music Player With Support Local File and Youtube Music for Android!",
     "topics": "android-application, android-studio, foss, jetpack-compose, kotlin, material-design, material-ui, material3, material3-android, music, music-player, music-player-foss, newpipe, nvvm, streaming-apps, youtube-music, youtube-music-client",
@@ -651,7 +651,7 @@
   {
     "repo": "IgorMundstein/WinMemoryCleaner",
     "url": "https://github.com/IgorMundstein/WinMemoryCleaner",
-    "stars": 4997,
+    "stars": 4996,
     "language": "C#",
     "description": "This free RAM cleaner uses native Windows features to optimize memory areas. It's a compact, portable, and smart applica",
     "topics": "cleaner, foss, gaming-performance, memory, memory-cache, memory-cleaner, memory-leak, memory-management, memory-manager, memory-monitoring, memory-optimization, memory-optimizer, ram, ram-cleaner, rammap, windows-optimization-tool",
@@ -739,7 +739,7 @@
   {
     "repo": "BraveOPotato/FckSignups",
     "url": "https://github.com/BraveOPotato/FckSignups",
-    "stars": 2615,
+    "stars": 2617,
     "language": "TypeScript",
     "description": "A list of tools that are open-source, in-browser, and require no-signups!",
     "topics": "",
@@ -860,7 +860,7 @@
   {
     "repo": "jeremy-prt/bloub",
     "url": "https://github.com/jeremy-prt/bloub",
-    "stars": 1195,
+    "stars": 1197,
     "language": "TypeScript",
     "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by f",
     "topics": "animation, avatar, morphing, svg, svg-animation, typescript, vue",
@@ -893,7 +893,7 @@
   {
     "repo": "laramint/laravel-brain",
     "url": "https://github.com/laramint/laravel-brain",
-    "stars": 895,
+    "stars": 896,
     "language": "PHP",
     "description": "Visualize your Laravel request lifecycle as an interactive graph",
     "topics": "brain, laramint, laravel, laravel-auto-crud, laravel-brain, laravel-packages, packages, php",
@@ -937,7 +937,7 @@
   {
     "repo": "Zyrexnn/Cybermes",
     "url": "https://github.com/Zyrexnn/Cybermes",
-    "stars": 749,
+    "stars": 750,
     "language": "Python",
     "description": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning s",
     "topics": "ai-agent, appsec, bug-bounty, cvss-v3, cybersecurity, devsecops, exploit-validation, hermes-agent, infosec, llm-security, nuclei, offensive-security, penetration-testing, playwright, reconnaissance, red-teaming, security-tools, sqlmap, threat-research, vulnerability-scanner",
@@ -992,7 +992,7 @@
   {
     "repo": "nolight132/sonora",
     "url": "https://github.com/nolight132/sonora",
-    "stars": 582,
+    "stars": 587,
     "language": "Rust",
     "description": "A native music streaming client, built with Rust and GPUI",
     "topics": "gpui, music-player, spotify, streaming, youtube",
@@ -1107,7 +1107,7 @@
     "description": "A Material 3 Expressive Music and Video app for Android with YT Music Support",
     "topics": "android, material-design, material-expressive, youtub, youtube, youtube-downloader, youtube-music, youtube-player, youtube-video, ytmusic",
     "created": "2025-12-03",
-    "forks": 17,
+    "forks": 18,
     "license": "GPL-3.0"
   },
   {

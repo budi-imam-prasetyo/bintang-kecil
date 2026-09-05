@@ -19,10 +19,14 @@ DIR = os.path.dirname(os.path.abspath(__file__))
 
 
 def fetch_stars():
+    token = os.environ.get("GITHUB_TOKEN")
     page, all_repos = 1, []
     while True:
         req = urllib.request.Request(f"{API}?per_page=100&page={page}")
         req.add_header("User-Agent", "github-stars-scraper/1.0")
+        if token:
+            # Authenticated: 5000 req/h instead of 60 — avoids CI rate limits.
+            req.add_header("Authorization", f"Bearer {token}")
         with urllib.request.urlopen(req) as resp:
             data = json.loads(resp.read())
         if not data:
@@ -99,6 +103,17 @@ def detect_changes(rows):
     return True
 
 
+# Explicit labels for repos with no (or misleading) API signals —
+# empty description + empty topics, or a name that reads as something else.
+# Checked before the scoring rules; keep this list short and justified.
+REPO_OVERRIDES = {
+    "sipeed/picoclaw": "🤖 AI Agents & Coding Assistants",  # ultra-light personal AI assistant (Go)
+    "levy-street/world-of-claudecraft": "🎮 Fun & Creative",  # zero-signal; Minecraft-style demo
+    "m4sbay/download-organizer": "🔧 Developer Utilities",  # zero-signal; shell download organizer
+    "Pandagz25/Spammess2": "🎮 Fun & Creative",  # zero-signal; spam tool
+}
+
+
 def categorize(r):
     """Evidence-based repo classifier.
 
@@ -111,6 +126,9 @@ def categorize(r):
     a minimum threshold. This avoids priority-ordering bugs and
     single-keyword false positives.
     """
+    if r["repo"] in REPO_OVERRIDES:
+        return REPO_OVERRIDES[r["repo"]]
+
     desc = (r["description"] or "").lower()
     topics_list = [t.strip().lower() for t in (r.get("topics") or "").split(",") if t.strip()]
     topics = set(topics_list)
@@ -148,6 +166,17 @@ def categorize(r):
     # Strong: known agent names
     if in_name("hermes-agent") or in_name("herdr"):
         s += 6
+    # Strong: name says it IS an agent (picoclaw, prime-agent, ...)
+    if in_name("claw") or in_name("-agent") or in_name("agent-"):
+        s += 5
+    # Strong: agent memory infrastructure (uteke pattern)
+    if has_topics("agent-memory") and has_topics("ai-agents", "mcp", "llm"):
+        s += 5
+    # Strong: description says agent for coding / autonomous tasks
+    if in_desc("ai agent") or in_desc("coding workflow") or in_desc("autonomous task"):
+        s += 4
+    if in_desc("agent") and has_topics("mcp", "mcp-server") and has_topics("llm", "ai", "rag"):
+        s += 4
     # Medium: agent skills with coding context
     if has_topics("agent-skills", "ai-skills") and has_topics("claude-code", "codex", "cursor", "cursor-ai", "antigravity"):
         s += 4
@@ -248,6 +277,11 @@ def categorize(r):
         s += 6
     if has_topics("owasp"):
         s += 4
+    # Strong: reverse engineering / pentesting research
+    if in_desc("reverse engineering") or in_desc("penetration testing"):
+        s += 6
+    if has_topics("penetration-testing", "offensive-security", "red-teaming", "exploit"):
+        s += 6
     # Strong: bug bounty resources
     if has_topics("bug-bounty", "bugbounty", "bugbountybooks", "bugbountypdf"):
         s += 5
@@ -369,6 +403,11 @@ def categorize(r):
         s += 4
     if in_desc("terminal workspace"):
         s += 5
+    # Strong: TUI system monitor (glances, btop, htop pattern)
+    if in_desc("top/htop") or in_desc("htop alternative") or in_desc("alternative to top"):
+        s += 6
+    if has_topics("system-monitor") and has_topics("terminal", "monitoring"):
+        s += 5
     # Strong: shell enhancements (compound: shell + specific plugin type)
     if has_topics("shell", "zsh", "bash", "fish") and has_topics("syntax-highlighting", "autosuggest", "history", "shell-extension", "shell-scripts"):
         s += 4
@@ -409,6 +448,11 @@ def categorize(r):
         s += 5  # screen recorder
     if has_topics("electrobun"):
         s += 5
+    # Strong: system cleaner/optimizer is an end-user desktop utility
+    if topic_n("cleaner", "system-cleaner", "linux-cleaner", "mac-cleaner",
+               "windows-cleaner", "pc-optimization", "windows-optimization-tool",
+               "system-maintenance") >= 2:
+        s += 6
     # Medium: tauri + desktop desc
     if has_topics("tauri") and in_desc("desktop"):
         s += 4
@@ -431,6 +475,8 @@ def categorize(r):
     # Strong: streaming client (TUI)
     if has_topics("streaming", "movies-streaming") and has_topics("anime", "moviebox"):
         s += 4
+    if has_topics("movies", "tv-shows", "series", "iptv") and has_topics("streaming", "downloader"):
+        s += 5
     # Medium: player keywords
     if has_topics("player", "youtube-player") and not has_topics("android"):
         s += 3
@@ -458,6 +504,9 @@ def categorize(r):
         s += 5
     if in_desc("multiple google drive") or in_desc("drive aggregation"):
         s += 5
+    # Strong: cloud storage drive aggregation (Telegram-Drive, 9Drive pattern)
+    if in_desc("cloud storage") and in_desc("drive"):
+        s += 6
     # Strong: privacy-focused app
     if in_desc("privacy first") or in_desc("privacy-first"):
         s += 4
@@ -523,6 +572,10 @@ def categorize(r):
     # Strong: document converter
     if in_desc("convert") and in_desc("markdown"):
         s += 5
+    # Strong: scraping / data-extraction framework (Scrapling pattern)
+    if topic_n("web-scraping", "web-scraper", "scraping", "crawler", "crawling",
+               "data-extraction", "webscraping") >= 3:
+        s += 6
     # Strong: intelligence/OSINT dashboard
     if in_desc("intelligence dashboard") or in_desc("geopolitical monitoring"):
         s += 5
@@ -664,16 +717,21 @@ def generate_readme(rows):
 
 
 # --- main ---
-print(f"Fetching stars for @{USERNAME}...")
-raw = fetch_stars()
-print(f"Fetched {len(raw)} repos")
+def main():
+    print(f"Fetching stars for @{USERNAME}...")
+    raw = fetch_stars()
+    print(f"Fetched {len(raw)} repos")
 
-rows = build_rows(raw)
-save_json(rows)
-save_csv(rows)
+    rows = build_rows(raw)
+    save_json(rows)
+    save_csv(rows)
 
-if detect_changes(rows):
-    generate_readme(rows)
-    print(f"README.md updated — {len(rows)} repos, changes detected")
-else:
-    print("No changes detected — README.md unchanged")
+    if detect_changes(rows):
+        generate_readme(rows)
+        print(f"README.md updated — {len(rows)} repos, changes detected")
+    else:
+        print("No changes detected — README.md unchanged")
+
+
+if __name__ == "__main__":
+    main()

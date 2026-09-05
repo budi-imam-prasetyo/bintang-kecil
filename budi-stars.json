@@ -13,7 +13,7 @@
   {
     "repo": "anomalyco/opencode",
     "url": "https://github.com/anomalyco/opencode",
-    "stars": 204195,
+    "stars": 204196,
     "language": "TypeScript",
     "description": "The open source coding agent.",
     "topics": "",
@@ -145,7 +145,7 @@
   {
     "repo": "Panniantong/Agent-Reach",
     "url": "https://github.com/Panniantong/Agent-Reach",
-    "stars": 78060,
+    "stars": 78059,
     "language": "Python",
     "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongSh",
     "topics": "agent-infrastructure, ai-agent, ai-search, automation, bilibili, claude-code, cli, cursor, free-api, llm-tools, mcp, python, reddit-scraper, twitter-scraper, web-scraper, xiaohongshu, youtube-transcript",
@@ -431,7 +431,7 @@
   {
     "repo": "rothgar/awesome-tuis",
     "url": "https://github.com/rothgar/awesome-tuis",
-    "stars": 20476,
+    "stars": 20477,
     "language": "",
     "description": "List of projects that provide terminal user interfaces",
     "topics": "",
@@ -541,7 +541,7 @@
   {
     "repo": "CodebuffAI/freebuff",
     "url": "https://github.com/CodebuffAI/freebuff",
-    "stars": 11634,
+    "stars": 11635,
     "language": "TypeScript",
     "description": "The free coding agent",
     "topics": "",

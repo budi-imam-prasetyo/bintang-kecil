@@ -27,17 +27,17 @@
 | Repository | ⭐ | Language | Description |
 |---|---:|---|---|
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 241,554 | Python | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 204,195 | TypeScript | The open source coding agent. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 204,196 | TypeScript | The open source coding agent. |
 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 125,055 | Python | An AI skill that provides design intelligence for building professional UI/UX ac |
 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 92,299 | JavaScript | Production-grade engineering skills for AI coding agents. |
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 78,060 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 78,059 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi |
 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 61,292 | TypeScript | Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), |
 | [herdrdev/herdr](https://github.com/herdrdev/herdr) | 35,370 | Rust | the runtime your coding agents live on |
 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 29,937 | Go | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativ |
 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 28,028 | TypeScript | #1 Persistent memory for AI coding agents based on real-world benchmarks |
 | [decolua/9router](https://github.com/decolua/9router) | 27,107 | JavaScript | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, An |
 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | 19,879 | TypeScript | A self-improving RLM agent for coding workflows and long-running autonomous task |
-| [CodebuffAI/freebuff](https://github.com/CodebuffAI/freebuff) | 11,634 | TypeScript | The free coding agent |
+| [CodebuffAI/freebuff](https://github.com/CodebuffAI/freebuff) | 11,635 | TypeScript | The free coding agent |
 | [peters/horizon](https://github.com/peters/horizon) | 700 | Rust | GPU-accelerated terminal board that puts all your sessions on an infinite canvas |
 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 237 | Rust | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall |
 | [Vanszs/VansRouter](https://github.com/Vanszs/VansRouter) | 235 | JavaScript | 🆓 Lightweight Version of 9Route x Omniroute Combined Logic - Unlimited FREE AI c |
@@ -154,7 +154,7 @@
 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 36,509 | TypeScript | Project NOMAD is an offline-first knowledge and education server. Wikipedia, tho |
 | [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) | 32,677 |  | A curated list of amazingly awesome PHP libraries, resources and shiny things. |
 | [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) | 25,593 | HTML | 🐧 A list of awesome Linux softwares  |
-| [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) | 20,476 |  | List of projects that provide terminal user interfaces |
+| [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) | 20,477 |  | List of projects that provide terminal user interfaces |
 | [offa/android-foss](https://github.com/offa/android-foss) | 11,103 | Python | A list of Free and Open Source Software (FOSS) for Android – saving Freedom and  |
 | [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun) | 3,655 |  | ⚡️ A curated list of awesome things related to Bun |
 | [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) | 2,617 | TypeScript | A list of tools that are open-source, in-browser, and require no-signups! |

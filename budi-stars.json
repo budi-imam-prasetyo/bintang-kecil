@@ -2,7 +2,7 @@
   {
     "repo": "NousResearch/hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "stars": 241552,
+    "stars": 241554,
     "language": "Python",
     "description": "The agent that grows with you",
     "topics": "ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, codex, hermes, hermes-agent, llm, nous-research, openai",
@@ -134,7 +134,7 @@
   {
     "repo": "D4Vinci/Scrapling",
     "url": "https://github.com/D4Vinci/Scrapling",
-    "stars": 78444,
+    "stars": 78445,
     "language": "Python",
     "description": "\ud83d\udd77\ufe0f An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
     "topics": "ai, ai-scraping, automation, crawler, crawling, crawling-python, data, data-extraction, mcp, mcp-server, playwright, python, scraping, selectors, stealth, web-scraper, web-scraping, web-scraping-python, webscraping, xpath",
@@ -266,7 +266,7 @@
   {
     "repo": "herdrdev/herdr",
     "url": "https://github.com/herdrdev/herdr",
-    "stars": 35369,
+    "stars": 35370,
     "language": "Rust",
     "description": "the runtime your coding agents live on",
     "topics": "agent, agent-orchestration, ai, ai-agents, claude-code, cli, codex, coding-agents, developer-tools, devtools, multiplexer, rust, terminal, terminal-multiplexer, terminal-ui, tmux, tui, workspace-manager",
@@ -821,7 +821,7 @@
     "description": "Trigger Circle to Search on any Android 9\u201316 device",
     "topics": "android, google, non-root, root",
     "created": "2024-10-26",
-    "forks": 87,
+    "forks": 88,
     "license": "GPL-3.0"
   },
   {

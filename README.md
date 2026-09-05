@@ -26,13 +26,13 @@
 
 | Repository | ⭐ | Language | Description |
 |---|---:|---|---|
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 241,552 | Python | The agent that grows with you |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 241,554 | Python | The agent that grows with you |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 204,195 | TypeScript | The open source coding agent. |
 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 125,055 | Python | An AI skill that provides design intelligence for building professional UI/UX ac |
 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 92,299 | JavaScript | Production-grade engineering skills for AI coding agents. |
 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 78,060 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi |
 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 61,292 | TypeScript | Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), |
-| [herdrdev/herdr](https://github.com/herdrdev/herdr) | 35,369 | Rust | the runtime your coding agents live on |
+| [herdrdev/herdr](https://github.com/herdrdev/herdr) | 35,370 | Rust | the runtime your coding agents live on |
 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 29,937 | Go | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativ |
 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 28,028 | TypeScript | #1 Persistent memory for AI coding agents based on real-world benchmarks |
 | [decolua/9router](https://github.com/decolua/9router) | 27,107 | JavaScript | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, An |
@@ -174,7 +174,7 @@
 | Repository | ⭐ | Language | Description |
 |---|---:|---|---|
 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 85,578 | TypeScript | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic |
-| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 78,444 | Python | 🕷️ An adaptive Web Scraping framework that handles everything from a single requ |
+| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 78,445 | Python | 🕷️ An adaptive Web Scraping framework that handles everything from a single requ |
 | [firecrawl/anydoc](https://github.com/firecrawl/anydoc) | 20,339 | Rust | Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean  |
 | [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) | 3,191 | TypeScript | Native local development environment for Windows, macOS & Linux. A modern altern |
 | [lerd-env/lerd](https://github.com/lerd-env/lerd) | 1,254 | Go | Open-source, Herd-like local PHP development environment for Linux and macOS. Au |
@@ -216,5 +216,5 @@
 | Total starred | 110 |
 | Top language | TypeScript (35 repos) |
 | Runner-up | Rust (18), Python (10) |
-| Most starred | NousResearch/hermes-agent (241,552 ⭐) |
+| Most starred | NousResearch/hermes-agent (241,554 ⭐) |
 | Own repos starred | 0 |

@@ -350,10 +350,14 @@ class TestOwnAndFallback(unittest.TestCase):
         r = row("unknown/nothing-here", "", "", "")
         self.assertEqual(cat(r), engine.UNCATEGORIZED)
 
-    def test_weak_signal_falls_back_to_fun(self):
-        # signals exist but score below threshold -> fun fallback
+    def test_weak_signal_is_uncategorized_not_fun(self):
+        # v2 semantics: signals exist but score below the weak threshold ->
+        # factual refusal (Uncategorized).  Fun requires real fun/creative
+        # evidence and is never a garbage-bin fallback.
         r = row("unknown/some-thing", "Rust", "just a weird experiment", "rust")
-        self.assertEqual(cat(r), engine.FUN)
+        self.assertEqual(cat(r), engine.UNCATEGORIZED)
+        _, ev = engine.classify(r)
+        self.assertTrue(any("refusing to guess" in e for e in ev))
 
     def test_waylandcraft_fallback(self):
         # real fun repo

@@ -11,6 +11,7 @@ import os
 import subprocess
 import sys
 import time
+import urllib.error
 import urllib.request
 
 from engine import UNCATEGORIZED, classify
@@ -19,18 +20,54 @@ USERNAME = sys.argv[1] if len(sys.argv) > 1 else "budi-imam-prasetyo"
 API = f"https://api.github.com/users/{USERNAME}/starred"
 DIR = os.path.dirname(os.path.abspath(__file__))
 
+# Network reliability: bounded retries with linear backoff.
+HTTP_TIMEOUT = 30        # seconds per request
+MAX_ATTEMPTS = 3         # 1 try + 2 retries — never unbounded
+RETRY_BACKOFF = 2        # seconds before attempt n: (n-1) * RETRY_BACKOFF
+
+
+def _fetch_page(url, token):
+    """Fetch one API page with timeout + bounded retries.
+
+    Retries transient failures (network errors, 5xx, rate-limit 403) with
+    backoff.  Other HTTP errors (401/404/...) fail fast with a clear
+    message.  Raises RuntimeError after MAX_ATTEMPTS.
+    """
+    last_err = None
+    for attempt in range(1, MAX_ATTEMPTS + 1):
+        if attempt > 1:
+            delay = (attempt - 1) * RETRY_BACKOFF
+            print(f"  retry {attempt - 1}/{MAX_ATTEMPTS - 1} in {delay}s "
+                  f"after: {last_err}")
+            time.sleep(delay)
+        req = urllib.request.Request(url)
+        req.add_header("User-Agent", "github-stars-scraper/1.0")
+        if token:
+            # Authenticated: 5000 req/h instead of 60 — avoids CI rate limits.
+            req.add_header("Authorization", f"Bearer {token}")
+        try:
+            with urllib.request.urlopen(req, timeout=HTTP_TIMEOUT) as resp:
+                return json.loads(resp.read())
+        except urllib.error.HTTPError as e:
+            if e.code >= 500 or e.code == 403:
+                last_err = f"HTTP {e.code} {e.reason}"
+                continue
+            raise RuntimeError(
+                f"GitHub API request failed permanently: HTTP {e.code} "
+                f"{e.reason} for {url}") from e
+        except (urllib.error.URLError, TimeoutError, OSError) as e:
+            last_err = f"{type(e).__name__}: {e}"
+            continue
+    raise RuntimeError(
+        f"GitHub API request failed after {MAX_ATTEMPTS} attempts: {url} "
+        f"(last error: {last_err})")
+
 
 def fetch_stars():
     token = os.environ.get("GITHUB_TOKEN")
     page, all_repos = 1, []
     while True:
-        req = urllib.request.Request(f"{API}?per_page=100&page={page}")
-        req.add_header("User-Agent", "github-stars-scraper/1.0")
-        if token:
-            # Authenticated: 5000 req/h instead of 60 — avoids CI rate limits.
-            req.add_header("Authorization", f"Bearer {token}")
-        with urllib.request.urlopen(req) as resp:
-            data = json.loads(resp.read())
+        data = _fetch_page(f"{API}?per_page=100&page={page}", token)
         if not data:
             break
         all_repos.extend(data)
@@ -68,6 +105,14 @@ def save_json(rows):
 def save_csv(rows):
     path = os.path.join(DIR, "budi-stars.csv")
     with open(path, "w", newline="") as f:
+        if not rows:
+            # Empty dataset: write a header-only CSV (stable fieldnames)
+            # instead of crashing on rows[0].
+            w = csv.DictWriter(f, fieldnames=[
+                "repo", "url", "stars", "language", "description",
+                "topics", "created", "forks", "license"])
+            w.writeheader()
+            return
         w = csv.DictWriter(f, fieldnames=rows[0].keys())
         w.writeheader()
         w.writerows(rows)
@@ -82,8 +127,15 @@ def detect_changes(rows):
     """
     new_rows = json.dumps(rows)
     try:
+        # Resolve the data file path relative to the repo root (not cwd),
+        # so the script keeps working when moved into a subdirectory.
+        root = subprocess.run(
+            ["git", "rev-parse", "--show-toplevel"],
+            capture_output=True, text=True, check=True, cwd=DIR,
+        ).stdout.strip()
+        data_rel = os.path.relpath(os.path.join(DIR, "budi-stars.json"), root)
         head = subprocess.run(
-            ["git", "show", "HEAD:budi-stars.json"],
+            ["git", "show", f"HEAD:{data_rel}"],
             capture_output=True, text=True, check=True, cwd=DIR,
         ).stdout
         # Compare parsed JSON, not raw bytes: saves to disk are indented,
@@ -107,13 +159,19 @@ def detect_changes(rows):
 
 
 
-def generate_readme(rows):
+def generate_readme(rows, cat_map=None):
     from engine import CATEGORIES
     cats = {c: [] for c in CATEGORIES}
     cats[UNCATEGORIZED] = []
 
     for r in rows:
-        cat = classify(r)[0]
+        # classify() is deterministic and this is a single pass over rows
+        # (no repeated classification of the same row) — README, stats and
+        # grouping all come from this one loop.
+        if cat_map and (r["repo"] or "").strip() in cat_map:
+            cat = cat_map[r["repo"].strip()]["final"]
+        else:
+            cat = classify(r)[0]
         if cat not in cats:
             cats[cat] = []
         cats[cat].append(r)
@@ -184,6 +242,15 @@ def generate_readme(rows):
 
 # --- main ---
 def main():
+    # --laya (or USE_LAYA=1): run the laya_classify re-sorting pass over all
+    # repos before generating the README.  Without it, behaviour is
+    # byte-identical to the rules-only pipeline.
+    args = [a for a in sys.argv[1:]]
+    use_laya = "--laya" in args or os.environ.get("USE_LAYA") == "1"
+    username = next((a for a in args if not a.startswith("-")), "budi-imam-prasetyo")
+    global USERNAME
+    USERNAME = username
+
     print(f"Fetching stars for @{USERNAME}...")
     raw = fetch_stars()
     print(f"Fetched {len(raw)} repos")
@@ -192,8 +259,26 @@ def main():
     save_json(rows)
     save_csv(rows)
 
-    if detect_changes(rows):
-        generate_readme(rows)
+    cat_map = None
+    if use_laya:
+        from laya_classify import audit_lines, classify_all, summarize
+        print("Running Laya re-classification pass...")
+        cat_map = classify_all(rows)
+        if cat_map:
+            changed, counts = summarize(cat_map)
+            print(f"  laya decided {len(cat_map)} repos; "
+                  f"{changed} re-categorized vs rules; sources={counts}")
+            for line in audit_lines(cat_map):
+                print(line)
+        else:
+            print("  laya unavailable — README keeps rules-only categories")
+
+    changed_data = detect_changes(rows)
+    # With a Laya pass the rows themselves may equal HEAD while the
+    # category assignment changed — regenerate whenever Laya decided.
+    # Deterministic Laya output keeps an unchanged README byte-identical.
+    if changed_data or (use_laya and cat_map):
+        generate_readme(rows, cat_map=cat_map)
         print(f"README.md updated — {len(rows)} repos, changes detected")
     else:
         print("No changes detected — README.md unchanged")

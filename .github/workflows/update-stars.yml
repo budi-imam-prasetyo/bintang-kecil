@@ -30,10 +30,28 @@ jobs:
       - name: Run categorization tests
         run: python3 -m unittest discover tests -v
 
+      # laya checkpoint cache (~0.9 GB for the English checkpoint).
+      # Keyed to the checkpoint id; bump the suffix to force a re-download.
+      - name: Cache laya checkpoint
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface/hub
+          key: laya-english-convaiinnovations-laya-v1
+          restore-keys: laya-english-
+
+      - name: Install laya (CPU-only torch)
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install torch --index-url https://download.pytorch.org/whl/cpu
+          python -m pip install laya
+
       - name: Scrape starred repos
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 scrape.py budi-imam-prasetyo
+          USE_LAYA: "1"
+          LAYA_DEVICE: "cpu"
+          LAYA_MIN_CONFIDENCE: "0.55"
+        run: python3 scrape.py budi-imam-prasetyo --laya
 
       - name: Commit and push if changed
         run: |

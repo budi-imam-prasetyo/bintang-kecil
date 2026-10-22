@@ -118,6 +118,30 @@ class TestDecisionPolicy(unittest.TestCase):
         self.assertEqual(d["source"], "rules-fallback")
         self.assertEqual(d["laya"], None)
 
+    def test_move_into_devutils_is_guarded(self):
+        # laya's zero-shot gravity: "tool"-ish repos get pulled into the
+        # generic DevUtils category below the conservative bar
+        _row, d, _r = self._run({"design-ui": (engine.DEVUTILS, 0.85)},
+                                min_confidence=0.80)
+        self.assertEqual(d["source"], "rules-catchall-guard")
+        self.assertEqual(d["final"], d["rules"])
+        self.assertEqual(d["final"], engine.DESIGN)
+
+    def test_into_devutils_clears_conservative_bar(self):
+        _row, d, _r = self._run({"design-ui": (engine.DEVUTILS, 0.95)},
+                                min_confidence=0.80)
+        self.assertEqual(d["source"], "laya")
+        self.assertEqual(d["final"], engine.DEVUTILS)
+
+    def test_move_out_of_devutils_needs_only_normal_bar(self):
+        router = FakeRouter({"convertkit": (engine.TERMINAL, 0.85)})
+        rows = [row("ChoreGraph/convertkit", "Python", "convert documents",
+                    "conversion, markdown")]
+        out = lc.classify_all(rows, min_confidence=0.80, router=router)
+        d = out["ChoreGraph/convertkit"]
+        self.assertEqual(d["source"], "laya")
+        self.assertEqual(d["final"], engine.TERMINAL)
+
     def test_own_repo_is_a_hard_decision(self):
         router = FakeRouter({"my-tool": (engine.FUN, 0.99)})
         rows = [row("budi-imam-prasetyo/my-tool", "Python", "a tool", "")]

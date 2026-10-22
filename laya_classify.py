@@ -42,29 +42,44 @@ LAYA_MODEL = "english"
 QUESTION_ID = "category"
 
 # Confidence above which Laya's answer wins over the rules result.
-DEFAULT_MIN_CONFIDENCE = float(os.environ.get("LAYA_MIN_CONFIDENCE", "0.55"))
+# 0.80 — calibrated live on the first CI run: every high-confidence laya
+# call was right (agent cluster 0.93-0.99) while exact regressions
+# (bun 0.55, atuin 0.56, katana 0.61, zellij 0.65, tldraw 0.66) sat below 0.80.
+DEFAULT_MIN_CONFIDENCE = float(os.environ.get("LAYA_MIN_CONFIDENCE", "0.80"))
+
+# Moving a repo INTO the catch-all-ish Developer Utilities category is the
+# single most common laya-zero-shot failure (gravity): generic "tool" phrasing
+# pulls everything there and erases a purpose decision.  Such a move needs a
+# higher bar than the ordinary threshold; moves OUT of DevUtils need only the
+# ordinary one.  (Checkpoint confidence is uncalibrated — invalid shipped
+# temperatures get clamped — so bar height is our calibration knob.)
+CONSERVATIVE_MOVE_MIN_CONF = float(
+    os.environ.get("LAYA_CONSERVATIVE_MOVE_CONF", "0.90"))
 
 # Laya's option budget (head_max_len default 192) means each criterion must
 # stay SHORT — engine.CATEGORY_DEFS definitions are far too long to describe
 # 14 options in one choice question.  These one-line criteria mirror the
-# category definitions instead; keep total size modest when editing.
+# category definitions instead, front-loading canonical products so iconic
+# repos (zellij -> Terminal, tldraw -> Design, bun -> Web, nuclei -> Security)
+# are absorbed by their own purpose category instead of the generic one;
+# keep total size modest when editing.
 _MAX_CRITERIA_WORDS = 14
 
 LAYA_CRITERIA = {
-    engine.AI: "AI agents, coding assistants, agent infrastructure or skills",
-    engine.ML: "machine learning apps, models, local LLM clients, generative AI",
-    engine.DESIGN: "design systems, UI components, icons, diagramming, figma",
-    engine.MOBILE: "Android or iOS end-user mobile apps",
-    engine.TERMINAL: "terminal emulators, TUI apps, CLI tools, neovim or shell",
-    engine.DESKTOP: "desktop GUI applications, electron or tauri apps",
-    engine.MEDIA: "music or video players, streaming clients, downloaders",
-    engine.WEB: "web frameworks, backend servers, JS runtimes, CMS",
-    engine.SELFHOST: "self-hosted servers, VPN or cloud storage, privacy tools",
-    engine.LISTS: "curated lists, awesome lists, tutorials, resource collections",
-    engine.SECURITY: "pentest frameworks, vulnerability scanners, reverse engineering",
-    engine.DEVUTILS: "developer productivity tools, converters, scrapers, dashboards",
+    engine.AI: "AI agents and coding assistants, agent infrastructure, agent skills, memory or gateways",
+    engine.ML: "machine learning apps, AI models, local LLM clients, generators, ML training tooling",
+    engine.DESIGN: "design systems, UI kits, icon packs, canvas or whiteboard SDKs (tldraw), diagramming",
+    engine.MOBILE: "Android or iOS end-user apps, mobile-first applications",
+    engine.TERMINAL: "terminal multiplexers (tmux, zellij), TUI apps, shell enhancements like atuin, CLI-first utilities",
+    engine.DESKTOP: "desktop GUI applications for macOS, Windows or Linux (electron, tauri)",
+    engine.MEDIA: "music or video players, streaming clients, media downloaders (youtube)",
+    engine.WEB: "JavaScript runtimes (bun, node), web frameworks, backend servers, headless CMS, realtime APIs",
+    engine.SELFHOST: "self-hosted servers, VPN or cloud storage services, privacy-first infrastructure",
+    engine.LISTS: "curated lists and resource collections, awesome lists, tutorials, courses",
+    engine.SECURITY: "pentest frameworks, vulnerability scanners (nuclei, ffuf), fuzzers, reverse engineering, malware analysis",
+    engine.DEVUTILS: "developer productivity tooling for builders: dev environments, converters, scrapers, dashboards, browser extensions",
     engine.MESSAGING: "WhatsApp, Telegram or chat clients, bots, messaging APIs",
-    engine.FUN: "games, creative art, fun demos, playful simulators",
+    engine.FUN: "games, playful demos and toys, creative or generative art, simulators",
 }
 
 # Laya never sees the OWN category: owner-namespace membership is metadata,
@@ -147,11 +162,13 @@ def classify_all(rows, min_confidence=None, router=None):
     """Re-sort all repos via Laya.  Returns {repo: decision dict}.
 
     Decision policy per repo:
-      1. rules == Own Projects       -> rules wins (hard decision)
-      2. Laya unavailable/failed     -> rules wins (source 'rules-fallback')
+      1. rules == Own Projects   -> rules wins (hard decision)
+      2. Laya unavailable/failed -> rules wins (source 'rules-fallback')
       3. Laya label outside criteria -> rules wins (source 'rules-invalid')
-      4. confidence >= min_confidence-> Laya's label (source 'laya')
-      5. otherwise                   -> rules wins (source 'rules-low-conf')
+      4. a MOVE INTO DevUtils with confidence below the conservative bar
+         -> rules wins (source 'rules-catchall-guard')
+      5. confidence >= min_confidence -> Laya's label (source 'laya')
+      6. otherwise               -> rules wins (source 'rules-low-conf')
 
     Returns {} when Laya could not run at all (not installed, no network),
     in which case the caller keeps rules-only behaviour.  Decision dicts:
@@ -190,6 +207,9 @@ def classify_all(rows, min_confidence=None, router=None):
             source = "rules-own"
         elif label is None:
             source = "rules-fallback"
+        elif label == engine.DEVUTILS and rules_cat != engine.DEVUTILS \
+                and conf < CONSERVATIVE_MOVE_MIN_CONF:
+            source = "rules-catchall-guard"
         elif conf >= min_confidence:
             source = "laya"
         else:

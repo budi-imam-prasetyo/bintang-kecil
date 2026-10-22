@@ -82,6 +82,16 @@ LAYA_CRITERIA = {
     engine.FUN: "games, playful demos and toys, creative or generative art, simulators",
 }
 
+# Category pairs laya is NOT allowed to change even at high confidence.
+# SECURITY < -> AI: an "AI agent for offensive security" IS an agent, but its
+# purpose is offense/defense tooling — engine.py's taxonomy keeps such repos
+# in Security (Cybermes: laya moved it to AI at 0.91; it is a pentest agent
+# framework).  Direction-only: rules=Security AND laya=says AI is blocked;
+# the reverse (rules=AI, laya=Security) stays an ordinary purpose fix.
+_PURPOSE_PROTECT_PAIRS = {
+    (engine.SECURITY, engine.AI),
+}
+
 # Laya never sees the OWN category: owner-namespace membership is metadata,
 # not semantics; engine.py decides it and the decision is hard.
 
@@ -162,13 +172,16 @@ def classify_all(rows, min_confidence=None, router=None):
     """Re-sort all repos via Laya.  Returns {repo: decision dict}.
 
     Decision policy per repo:
-      1. rules == Own Projects   -> rules wins (hard decision)
-      2. Laya unavailable/failed -> rules wins (source 'rules-fallback')
-      3. Laya label outside criteria -> rules wins (source 'rules-invalid')
-      4. a MOVE INTO DevUtils with confidence below the conservative bar
-         -> rules wins (source 'rules-catchall-guard')
-      5. confidence >= min_confidence -> Laya's label (source 'laya')
-      6. otherwise               -> rules wins (source 'rules-low-conf')
+      1. rules hard decisions (own projects + manual overrides)
+                                       -> rules wins (source 'rules-hard')
+      2. Laya unavailable/failed       -> rules wins (source 'rules-fallback')
+      3. Laya label outside criteria   -> rules wins (source 'rules-invalid')
+      4. a protected pair move (e.g. Security -> AI)
+                                     -> rules wins (source 'rules-pair-guard')
+      5. a MOVE INTO DevUtils with confidence below the conservative bar
+                                     -> rules wins (source 'rules-catchall-guard')
+      6. confidence >= min_confidence -> Laya's label (source 'laya')
+      7. otherwise                    -> rules wins (source 'rules-low-conf')
 
     Returns {} when Laya could not run at all (not installed, no network),
     in which case the caller keeps rules-only behaviour.  Decision dicts:
@@ -202,11 +215,14 @@ def classify_all(rows, min_confidence=None, router=None):
     out = {}
     for row, (label, conf) in zip(rows, answers):
         repo = (row.get("repo") or "").strip()
-        rules_cat, _ev = engine.classify(row)
-        if rules_cat == engine.OWN:
-            source = "rules-own"
+        dec = engine._decide(row)
+        rules_cat = dec["category"]
+        if dec["decision_source"] in ("own", "override"):
+            source = "rules-hard"
         elif label is None:
             source = "rules-fallback"
+        elif (rules_cat, label) in _PURPOSE_PROTECT_PAIRS:
+            source = "rules-pair-guard"
         elif label == engine.DEVUTILS and rules_cat != engine.DEVUTILS \
                 and conf < CONSERVATIVE_MOVE_MIN_CONF:
             source = "rules-catchall-guard"

@@ -148,8 +148,43 @@ class TestDecisionPolicy(unittest.TestCase):
         out = lc.classify_all(rows, router=router)
         d = out["budi-imam-prasetyo/my-tool"]
         self.assertEqual(d["final"], engine.OWN)
-        self.assertEqual(d["source"], "rules-own")
+        self.assertEqual(d["source"], "rules-hard")
         self.assertEqual(d["rules"], engine.OWN)
+
+    def test_manual_override_is_a_hard_decision(self):
+        # sipeed/picoclaw lives in engine.REPO_OVERRIDES -> AI, whatever laya
+        # scores: laya must never lift a hand-resolved category
+        router = FakeRouter({"picoclaw": (engine.DEVUTILS, 0.99)})
+        rows = [row("sipeed/picoclaw", "Go", "automate the mundane", "")]
+        out = lc.classify_all(rows, router=router)
+        d = out["sipeed/picoclaw"]
+        self.assertEqual(d["final"], engine.AI)
+        self.assertEqual(d["source"], "rules-hard")
+
+    def test_security_to_ai_is_a_protected_pair(self):
+        # real regression from run 2: Cybermes is an offensive-security agent
+        # framework; laya said "AI Agents" at 0.91 and is refused
+        router = FakeRouter({"Cybermes": (engine.AI, 0.91)})
+        rows = [row("Zyrexnn/Cybermes", "Python",
+                    "Autonomous Offensive Security, Bug Bounty & Red Teaming "
+                    "Agent Framework",
+                    "offensive-security, penetration-testing, red-teaming, "
+                    "nuclei, appsec, bug-bounty, ai-agent, llm-security")]
+        out = lc.classify_all(rows, router=router)
+        d = out["Zyrexnn/Cybermes"]
+        self.assertEqual(d["source"], "rules-pair-guard")
+        self.assertEqual(d["final"], engine.SECURITY)
+
+    def test_ai_to_security_needs_no_pair_guard(self):
+        # reverse direction stays an ordinary purpose fix
+        router = FakeRouter({"hermes-agent": (engine.SECURITY, 0.85)})
+        rows = [row("NousResearch/hermes-agent", "Python",
+                    "The agent that grows with you",
+                    "ai-agent, llm")]
+        out = lc.classify_all(rows, min_confidence=0.80, router=router)
+        d = out["NousResearch/hermes-agent"]
+        self.assertEqual(d["source"], "laya")
+        self.assertEqual(d["final"], engine.SECURITY)
 
     def test_batch_requests_pin_model_and_share_spec(self):
         _row, _d, router = self._run({"design-ui": (engine.DESIGN, 0.9)})

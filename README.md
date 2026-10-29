@@ -26,81 +26,81 @@
 
 | Repository | ⭐ | Language | Description |
 |---|---:|---|---|
-| [morluto/rea](https://github.com/morluto/rea) | 397,852 | TypeScript | Reverse engineer anything with agents, from app behavior down to native binaries |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 257,780 | Python | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 222,419 | TypeScript | The open source coding agent. |
-| [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 141,622 | Python | An AI skill that provides design intelligence for building professional UI/UX ac |
-| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 137,068 | Python | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryab |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 111,186 | JavaScript | Production-grade engineering skills for AI coding agents. |
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 105,005 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi |
-| [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | 81,906 | TypeScript | Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), |
-| [herdrdev/herdr](https://github.com/herdrdev/herdr) | 46,217 | Rust | the runtime your coding agents live on |
-| [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) | 42,044 | Python | Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. |
-| [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 36,857 | TypeScript | ⌥ Coding agent with the IDE wired in. Built by Stencil Labs. |
-| [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | 36,449 | TypeScript | Draw and edit draw.io diagrams by chatting with an AI. Web app, desktop app, and |
-| [decolua/9router](https://github.com/decolua/9router) | 31,538 | JavaScript | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, An |
-| [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 30,083 | Go | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativ |
-| [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 29,955 | TypeScript | #1 Persistent memory for AI coding agents based on real-world benchmarks |
-| [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | 22,400 | Rust | A self-improving RLM agent for coding workflows and long-running autonomous task |
-| [CodebuffAI/freebuff](https://github.com/CodebuffAI/freebuff) | 13,810 | TypeScript | The free coding agent |
+| [morluto/rea](https://github.com/morluto/rea) | 403,255 | TypeScript | Reverse engineer anything with agents, from app behavior down to native binaries |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 258,105 | Python | The agent that grows with you |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 222,804 | TypeScript | The open source coding agent. |
+| [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 142,136 | Python | An AI skill that provides design intelligence for building professional UI/UX ac |
+| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 137,951 | Python | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryab |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 111,493 | JavaScript | Production-grade engineering skills for AI coding agents. |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 105,710 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi |
+| [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | 82,293 | TypeScript | Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), |
+| [herdrdev/herdr](https://github.com/herdrdev/herdr) | 46,394 | Rust | the runtime your coding agents live on |
+| [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) | 44,018 | Python | Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. |
+| [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 36,997 | TypeScript | ⌥ Coding agent with the IDE wired in. Built by Stencil Labs. |
+| [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | 36,469 | TypeScript | Draw and edit draw.io diagrams by chatting with an AI. Web app, desktop app, and |
+| [decolua/9router](https://github.com/decolua/9router) | 31,594 | JavaScript | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, An |
+| [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 30,080 | Go | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativ |
+| [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 29,984 | TypeScript | #1 Persistent memory for AI coding agents based on real-world benchmarks |
+| [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | 22,427 | Rust | A self-improving RLM agent for coding workflows and long-running autonomous task |
+| [CodebuffAI/freebuff](https://github.com/CodebuffAI/freebuff) | 13,832 | TypeScript | The free coding agent |
 | [peters/horizon](https://github.com/peters/horizon) | 722 | Rust | GPU-accelerated terminal board that puts all your sessions on an infinite canvas |
-| [gnoviawan/termul](https://github.com/gnoviawan/termul) | 289 | TypeScript | Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager bu |
-| [Vanszs/VansRouter](https://github.com/Vanszs/VansRouter) | 285 | JavaScript | 🆓 Lightweight Version of 9Route x Omniroute Combined Logic - Unlimited FREE AI c |
-| [codecoradev/uteke](https://github.com/codecoradev/uteke) | 277 | Rust | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall |
+| [gnoviawan/termul](https://github.com/gnoviawan/termul) | 292 | TypeScript | Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager bu |
+| [Vanszs/VansRouter](https://github.com/Vanszs/VansRouter) | 287 | JavaScript | 🆓 Lightweight Version of 9Route x Omniroute Combined Logic - Unlimited FREE AI c |
+| [codecoradev/uteke](https://github.com/codecoradev/uteke) | 278 | Rust | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall |
 
 ## 🧠 AI/ML
 
 | Repository | ⭐ | Language | Description |
 |---|---:|---|---|
-| [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 97,309 | Python | real time face swap and one-click video deepfake with only a single image |
-| [janhq/jan](https://github.com/janhq/jan) | 45,119 | Rust | Jan is an open source alternative to ChatGPT that runs 100% offline on your comp |
-| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 22,096 | TypeScript | Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt |
-| [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) | 14,128 | TypeScript | 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Come |
+| [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 97,358 | Python | real time face swap and one-click video deepfake with only a single image |
+| [janhq/jan](https://github.com/janhq/jan) | 45,131 | Rust | Jan is an open source alternative to ChatGPT that runs 100% offline on your comp |
+| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 22,104 | TypeScript | Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt |
+| [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) | 14,163 | TypeScript | 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Come |
 
 ## 🎨 UI/UX & Design
 
 | Repository | ⭐ | Language | Description |
 |---|---:|---|---|
-| [tldraw/tldraw](https://github.com/tldraw/tldraw) | 51,120 | TypeScript | Build infinite canvas apps in React with the tldraw SDK. World's best, top-most  |
-| [playcanvas/supersplat](https://github.com/playcanvas/supersplat) | 10,480 | TypeScript | 3D Gaussian Splat Editor |
-| [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) | 3,868 | TypeScript | Extract any website’s design system into tokens in seconds: logo, colors, typogr |
-| [glincker/thesvg](https://github.com/glincker/thesvg) | 2,911 | TypeScript | The open SVG brand library: 7,600+ brand logos and cloud icons (AWS, Azure, GCP) |
-| [openflowkit/openflowkit](https://github.com/openflowkit/openflowkit) | 916 | TypeScript | Free, open-source diagram canvas. Draw it, write it as code (Mermaid, D2, Struct |
-| [romainsimon/uisfx](https://github.com/romainsimon/uisfx) | 892 | Vue | UI Sound Effects for your interfaces |
+| [tldraw/tldraw](https://github.com/tldraw/tldraw) | 51,136 | TypeScript | Build infinite canvas apps in React with the tldraw SDK. World's best, top-most  |
+| [playcanvas/supersplat](https://github.com/playcanvas/supersplat) | 10,485 | TypeScript | 3D Gaussian Splat Editor |
+| [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) | 3,878 | TypeScript | Extract any website’s design system into tokens in seconds: logo, colors, typogr |
+| [glincker/thesvg](https://github.com/glincker/thesvg) | 2,915 | TypeScript | The open SVG brand library: 7,600+ brand logos and cloud icons (AWS, Azure, GCP) |
+| [openflowkit/openflowkit](https://github.com/openflowkit/openflowkit) | 918 | TypeScript | Free, open-source diagram canvas. Draw it, write it as code (Mermaid, D2, Struct |
+| [romainsimon/uisfx](https://github.com/romainsimon/uisfx) | 898 | Vue | UI Sound Effects for your interfaces |
 
 ## 📱 Mobile Apps
 
 | Repository | ⭐ | Language | Description |
 |---|---:|---|---|
-| [rukamori/ArchiveTune](https://github.com/rukamori/ArchiveTune) | 7,702 | Kotlin | 🌸 The Cutest Music Player With Support Local File and Youtube Music for Android! |
-| [komikku-app/komikku](https://github.com/komikku-app/komikku) | 4,943 | Kotlin | Free and open source manga reader for Android |
-| [pass-with-high-score/blockads-android](https://github.com/pass-with-high-score/blockads-android) | 2,335 | Kotlin | Block ads system-wide on Android using local VPN-based DNS filtering. No root ne |
-| [risin42/NagramX](https://github.com/risin42/NagramX) | 2,192 | Java | A variant of Nagram with additional features. |
-| [parallelcc/MiCTS](https://github.com/parallelcc/MiCTS) | 1,666 | Kotlin | Trigger Circle to Search on any Android 9–16 device |
-| [MaheshTechnicals/Sealplus](https://github.com/MaheshTechnicals/Sealplus) | 1,402 | Kotlin | Seal Plus - Your go-to Android app for downloading videos & audio from YouTube,  |
-| [SimonSchubert/omalauncher](https://github.com/SimonSchubert/omalauncher) | 474 | Kotlin | Agentic Android launcher: build your own apps and widgets with AI agents, Omarch |
+| [rukamori/ArchiveTune](https://github.com/rukamori/ArchiveTune) | 7,743 | Kotlin | 🌸 The Cutest Music Player With Support Local File and Youtube Music for Android! |
+| [komikku-app/komikku](https://github.com/komikku-app/komikku) | 4,951 | Kotlin | Free and open source manga reader for Android |
+| [pass-with-high-score/blockads-android](https://github.com/pass-with-high-score/blockads-android) | 2,343 | Kotlin | Block ads system-wide on Android using local VPN-based DNS filtering. No root ne |
+| [risin42/NagramX](https://github.com/risin42/NagramX) | 2,193 | Java | A variant of Nagram with additional features. |
+| [parallelcc/MiCTS](https://github.com/parallelcc/MiCTS) | 1,667 | Kotlin | Trigger Circle to Search on any Android 9–16 device |
+| [MaheshTechnicals/Sealplus](https://github.com/MaheshTechnicals/Sealplus) | 1,404 | Kotlin | Seal Plus - Your go-to Android app for downloading videos & audio from YouTube,  |
+| [SimonSchubert/omalauncher](https://github.com/SimonSchubert/omalauncher) | 479 | Kotlin | Agentic Android launcher: build your own apps and widgets with AI agents, Omarch |
 | [Senzme/NFile](https://github.com/Senzme/NFile) | 437 | Dart | A Beautiful File Manager |
 | [bikram-agarwal/FilePipe](https://github.com/bikram-agarwal/FilePipe) | 310 | Kotlin | Turn messy Android storage into a rule-driven library: choose sources, filters,  |
-| [sidhant947/Puzzle](https://github.com/sidhant947/Puzzle) | 268 | Dart | A suite of 300+ minimalist puzzle games built with Flutter. Leave a 🌟 to show yo |
-| [Ivorisnoob/Koda](https://github.com/Ivorisnoob/Koda) | 215 | Kotlin | A Material 3 Expressive Music and Video app for Android with YT Music Support |
+| [sidhant947/Puzzle](https://github.com/sidhant947/Puzzle) | 271 | Dart | A suite of 300+ minimalist puzzle games built with Flutter. Leave a 🌟 to show yo |
+| [Ivorisnoob/Koda](https://github.com/Ivorisnoob/Koda) | 216 | Kotlin | A Material 3 Expressive Music and Video app for Android with YT Music Support |
 
 ## 💻 Terminal & CLI
 
 | Repository | ⭐ | Language | Description |
 |---|---:|---|---|
-| [zellij-org/zellij](https://github.com/zellij-org/zellij) | 35,861 | Rust | A terminal workspace with batteries included |
-| [nicolargo/glances](https://github.com/nicolargo/glances) | 33,862 | Python | Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS  |
-| [atuinsh/atuin](https://github.com/atuinsh/atuin) | 32,107 | Rust | ✨ Making your shell magical |
-| [charmbracelet/glow](https://github.com/charmbracelet/glow) | 27,836 | Go | Render markdown on the CLI, with pizzazz! 💅🏻 |
-| [audacity/audacity](https://github.com/audacity/audacity) | 18,856 | C++ | Audio Editor                                      |
-| [espanso/espanso](https://github.com/espanso/espanso) | 14,690 | Rust | A Privacy-first, Cross-platform Text Expander written in Rust |
-| [Canop/broot](https://github.com/Canop/broot) | 13,107 | Rust | A new way to see and navigate directory trees |
-| [voidcosmos/npkill](https://github.com/voidcosmos/npkill) | 9,485 | TypeScript | List any node_modules 📦 dir in your system and how heavy they are. You can then  |
-| [crynta/terax-ai](https://github.com/crynta/terax-ai) | 9,408 | TypeScript | Lightweight (7MB) terminal-first AI-native development environment |
-| [chmln/sd](https://github.com/chmln/sd) | 7,403 | Rust | Intuitive find & replace CLI (sed alternative) |
-| [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) | 4,306 | TypeScript | A real browser inside your terminal |
-| [abhixdd/ghgrab](https://github.com/abhixdd/ghgrab) | 1,597 | Rust | A simple, pretty terminal tool that lets you browse and download files from GitH |
-| [michel-kraemer/zsh-patina](https://github.com/michel-kraemer/zsh-patina) | 534 | Rust | $ A blazingly fast Zsh syntax highlighter 🌈 |
+| [zellij-org/zellij](https://github.com/zellij-org/zellij) | 35,870 | Rust | A terminal workspace with batteries included |
+| [nicolargo/glances](https://github.com/nicolargo/glances) | 33,870 | Python | Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS  |
+| [atuinsh/atuin](https://github.com/atuinsh/atuin) | 32,120 | Rust | ✨ Making your shell magical |
+| [charmbracelet/glow](https://github.com/charmbracelet/glow) | 27,846 | Go | Render markdown on the CLI, with pizzazz! 💅🏻 |
+| [audacity/audacity](https://github.com/audacity/audacity) | 18,871 | C++ | Audio Editor                                      |
+| [espanso/espanso](https://github.com/espanso/espanso) | 14,692 | Rust | A Privacy-first, Cross-platform Text Expander written in Rust |
+| [Canop/broot](https://github.com/Canop/broot) | 13,110 | Rust | A new way to see and navigate directory trees |
+| [voidcosmos/npkill](https://github.com/voidcosmos/npkill) | 9,488 | TypeScript | List any node_modules 📦 dir in your system and how heavy they are. You can then  |
+| [crynta/terax-ai](https://github.com/crynta/terax-ai) | 9,411 | TypeScript | Lightweight (7MB) terminal-first AI-native development environment |
+| [chmln/sd](https://github.com/chmln/sd) | 7,404 | Rust | Intuitive find & replace CLI (sed alternative) |
+| [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) | 4,323 | TypeScript | A real browser inside your terminal |
+| [abhixdd/ghgrab](https://github.com/abhixdd/ghgrab) | 1,600 | Rust | A simple, pretty terminal tool that lets you browse and download files from GitH |
+| [michel-kraemer/zsh-patina](https://github.com/michel-kraemer/zsh-patina) | 535 | Rust | $ A blazingly fast Zsh syntax highlighter 🌈 |
 | [jchultarsky/mirador](https://github.com/jchultarsky/mirador) | 326 | Rust | An opinionated personal dashboard for your terminal — world clocks, calendar and |
 | [UtsavMandal2022/zsh-sage](https://github.com/UtsavMandal2022/zsh-sage) | 107 | Shell | Intelligent zsh autosuggestions with multi-signal ranking and confidence-colored |
 
@@ -108,42 +108,42 @@
 
 | Repository | ⭐ | Language | Description |
 |---|---:|---|---|
-| [tw93/Pake](https://github.com/tw93/Pake) | 62,328 | Rust | Turn any website into a lightweight desktop app with one command, on macOS, Wind |
-| [wailsapp/wails](https://github.com/wailsapp/wails) | 36,770 | Go | Create beautiful applications using Go |
-| [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) | 35,411 | TypeScript | Create polished demo videos without editing skills. Mac/Windows/Linux |
-| [t8y2/dbx](https://github.com/t8y2/dbx) | 27,947 | Rust | 25 MB lightweight cross-platform database client for 100+ databases, including M |
-| [CapSoftware/Cap](https://github.com/CapSoftware/Cap) | 23,955 | Rust | Open source Loom alternative. Beautiful, shareable screen recordings. |
-| [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) | 12,976 | TypeScript | Build ultra fast, tiny, and cross-platform desktop apps with TypeScript, Zig, Ru |
-| [IgorMundstein/WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) | 5,202 | C# | This free RAM cleaner uses native Windows features to optimize memory areas. It' |
-| [AdventDevInc/kudu](https://github.com/AdventDevInc/kudu) | 4,084 | TypeScript | Free Windows, Mac and Linux cleaner, scanner, and more. |
-| [InukaAsith/TwinDesk](https://github.com/InukaAsith/TwinDesk) | 734 | JavaScript |  All your computers and your phone, working as one desk. Screens, apps, files, c |
+| [tw93/Pake](https://github.com/tw93/Pake) | 62,392 | Rust | Turn any website into a lightweight desktop app with one command, on macOS, Wind |
+| [wailsapp/wails](https://github.com/wailsapp/wails) | 36,798 | Go | Create beautiful applications using Go |
+| [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) | 35,492 | TypeScript | Create polished demo videos without editing skills. Mac/Windows/Linux |
+| [t8y2/dbx](https://github.com/t8y2/dbx) | 28,082 | Rust | 25 MB lightweight cross-platform database client for 100+ databases, including M |
+| [CapSoftware/Cap](https://github.com/CapSoftware/Cap) | 24,023 | Rust | Open source Loom alternative. Beautiful, shareable screen recordings. |
+| [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) | 12,980 | Zig | Build ultra fast, tiny, and cross-platform desktop apps with TypeScript, Zig, Ru |
+| [IgorMundstein/WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) | 5,210 | C# | This free RAM cleaner uses native Windows features to optimize memory areas. It' |
+| [AdventDevInc/kudu](https://github.com/AdventDevInc/kudu) | 4,092 | TypeScript | Free Windows, Mac and Linux cleaner, scanner, and more. |
+| [InukaAsith/TwinDesk](https://github.com/InukaAsith/TwinDesk) | 1,072 | JavaScript |  All your computers and your phone, working as one desk. Screens, apps, files, c |
 
 ## 🎬 Media
 
 | Repository | ⭐ | Language | Description |
 |---|---:|---|---|
-| [nexmoe/VidBee](https://github.com/nexmoe/VidBee) | 10,996 | TypeScript | Download video and audio from  YouTube ,  TikTok ,  Twitter ,  Instagram ,  Face |
-| [crmne/spotifast](https://github.com/crmne/spotifast) | 9,305 | Rust | Spotify, native and fast. One lightweight Rust app for your whole library, local |
-| [mesamirh/MovieBox-Tui](https://github.com/mesamirh/MovieBox-Tui) | 2,655 | Rust | Terminal interface to find, download, and stream movies, TV shows, and live TV u |
-| [sonorahq/sonora](https://github.com/sonorahq/sonora) | 2,436 | Rust | A native music streaming client, built with Rust and GPUI |
+| [nexmoe/VidBee](https://github.com/nexmoe/VidBee) | 11,008 | TypeScript | Download video and audio from  YouTube ,  TikTok ,  Twitter ,  Instagram ,  Face |
+| [crmne/spotifast](https://github.com/crmne/spotifast) | 9,359 | Rust | Spotify, native and fast. One lightweight Rust app for your whole library, local |
+| [mesamirh/MovieBox-Tui](https://github.com/mesamirh/MovieBox-Tui) | 2,669 | Rust | Terminal interface to find, download, and stream movies, TV shows, and live TV u |
+| [sonorahq/sonora](https://github.com/sonorahq/sonora) | 2,465 | Rust | A native music streaming client, built with Rust and GPUI |
 
 ## 🌐 Web Frameworks & Backend
 
 | Repository | ⭐ | Language | Description |
 |---|---:|---|---|
-| [oven-sh/bun](https://github.com/oven-sh/bun) | 96,443 | Rust | Incredibly fast JavaScript runtime, bundler, test runner, and package manager –  |
-| [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) | 61,626 | Go | Open Source realtime backend in 1 file |
-| [voyager-crew/voyager](https://github.com/voyager-crew/voyager) | 20,479 | TypeScript | Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a pro |
-| [elysiajs/elysia](https://github.com/elysiajs/elysia) | 19,305 | TypeScript | Ergonomic Framework for Humans |
+| [oven-sh/bun](https://github.com/oven-sh/bun) | 96,455 | Rust | Incredibly fast JavaScript runtime, bundler, test runner, and package manager –  |
+| [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) | 61,628 | Go | Open Source realtime backend in 1 file |
+| [voyager-crew/voyager](https://github.com/voyager-crew/voyager) | 20,481 | TypeScript | Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a pro |
+| [elysiajs/elysia](https://github.com/elysiajs/elysia) | 19,310 | TypeScript | Ergonomic Framework for Humans |
 | [laramint/laravel-brain](https://github.com/laramint/laravel-brain) | 938 | PHP | Visualize your Laravel request lifecycle as an interactive graph |
 
 ## 🔒 Self-Hosted & Privacy
 
 | Repository | ⭐ | Language | Description |
 |---|---:|---|---|
-| [caamer20/Telegram-Drive](https://github.com/caamer20/Telegram-Drive) | 5,598 | Rust | Turn your Telegram account into an unlimited, secure cloud storage drive. an Ope |
-| [zenhosta/9drive](https://github.com/zenhosta/9drive) | 2,695 | TypeScript | 9Drive is a storage gateway web app for connecting multiple Google Drive account |
-| [shaongitbd/doory](https://github.com/shaongitbd/doory) | 1,875 | TypeScript | Open source canva alternative |
+| [caamer20/Telegram-Drive](https://github.com/caamer20/Telegram-Drive) | 5,616 | Rust | Turn your Telegram account into an unlimited, secure cloud storage drive. an Ope |
+| [zenhosta/9drive](https://github.com/zenhosta/9drive) | 2,710 | TypeScript | 9Drive is a storage gateway web app for connecting multiple Google Drive account |
+| [shaongitbd/doory](https://github.com/shaongitbd/doory) | 1,891 | TypeScript | Open source canva alternative |
 | [dimartarmizi/OmniCloud](https://github.com/dimartarmizi/OmniCloud) | 664 | JavaScript | OmniCloud is a full-stack cloud drive aggregation platform that presents multipl |
 | [ethicnology/furtive](https://github.com/ethicnology/furtive) | 34 | Dart | Privacy first GPS tracker. No accounts. No google services. |
 | [nekowawolf/rvenvale](https://github.com/nekowawolf/rvenvale) | 14 | TypeScript | Open-source, self-hosted image hosting with GitHub CDN |
@@ -152,47 +152,47 @@
 
 | Repository | ⭐ | Language | Description |
 |---|---:|---|---|
-| [avelino/awesome-go](https://github.com/avelino/awesome-go) | 190,723 | Go | A curated list of awesome Go frameworks, libraries and software |
-| [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 140,120 | HTML | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo |
-| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | 124,062 |  | A collection of DESIGN.md files analysis by popular brand design systems. Drop o |
-| [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 91,802 | Jupyter Notebook | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all |
-| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 41,048 | TypeScript | Project NOMAD is an offline-first knowledge and education server. Wikipedia, tho |
-| [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) | 32,766 |  | A curated list of amazingly awesome PHP libraries, resources and shiny things. |
-| [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) | 25,650 | HTML | 🐧 A list of awesome Linux softwares  |
-| [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) | 21,001 |  | List of projects that provide terminal user interfaces |
-| [offa/android-foss](https://github.com/offa/android-foss) | 11,574 | Python | A list of Free and Open Source Software (FOSS) for Android – saving Freedom and  |
-| [BraveOPotato/NoSignups](https://github.com/BraveOPotato/NoSignups) | 4,526 | TypeScript | A list of tools that are open-source, in-browser, and require no-signups! |
+| [avelino/awesome-go](https://github.com/avelino/awesome-go) | 190,899 | Go | A curated list of awesome Go frameworks, libraries and software |
+| [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 140,452 | HTML | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo |
+| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | 124,310 |  | A collection of DESIGN.md files analysis by popular brand design systems. Drop o |
+| [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 91,837 | Jupyter Notebook | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all |
+| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 41,172 | TypeScript | Project NOMAD is an offline-first knowledge and education server. Wikipedia, tho |
+| [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) | 32,772 |  | A curated list of amazingly awesome PHP libraries, resources and shiny things. |
+| [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) | 25,649 | HTML | 🐧 A list of awesome Linux softwares  |
+| [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) | 21,007 |  | List of projects that provide terminal user interfaces |
+| [offa/android-foss](https://github.com/offa/android-foss) | 11,582 | Python | A list of Free and Open Source Software (FOSS) for Android – saving Freedom and  |
+| [BraveOPotato/NoSignups](https://github.com/BraveOPotato/NoSignups) | 4,531 | TypeScript | A list of tools that are open-source, in-browser, and require no-signups! |
 | [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun) | 3,676 |  | ⚡️ A curated list of awesome things related to Bun |
 
 ## 🛡️ Security
 
 | Repository | ⭐ | Language | Description |
 |---|---:|---|---|
-| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 43,576 | PowerShell | Reverse Engineering / Authorized Penetration Testing / Security Research Skill R |
-| [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) | 32,378 | Go | Nuclei is a fast, customizable vulnerability scanner powered by the global secur |
-| [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) | 22,056 | Python | Mobile Security Framework (MobSF) is an automated, all-in-one mobile application |
+| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 43,672 | PowerShell | Reverse Engineering / Authorized Penetration Testing / Security Research Skill R |
+| [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) | 32,414 | Go | Nuclei is a fast, customizable vulnerability scanner powered by the global secur |
+| [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) | 22,063 | Python | Mobile Security Framework (MobSF) is an automated, all-in-one mobile application |
 | [ffuf/ffuf](https://github.com/ffuf/ffuf) | 16,954 | Go | Fast web fuzzer written in Go |
-| [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) | 15,018 | Python | Web path scanner |
-| [caido/caido](https://github.com/caido/caido) | 2,710 | Shell | 🚀 Caido releases, wiki and roadmap |
-| [akr3ch/BugBountyBooks](https://github.com/akr3ch/BugBountyBooks) | 2,057 |  | A collection of PDF/books about the modern web application security and bug boun |
-| [Zyrexnn/Cybermes](https://github.com/Zyrexnn/Cybermes) | 978 | Python | Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered  |
+| [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) | 15,020 | Python | Web path scanner |
+| [caido/caido](https://github.com/caido/caido) | 2,711 | Shell | 🚀 Caido releases, wiki and roadmap |
+| [akr3ch/BugBountyBooks](https://github.com/akr3ch/BugBountyBooks) | 2,060 |  | A collection of PDF/books about the modern web application security and bug boun |
+| [Zyrexnn/Cybermes](https://github.com/Zyrexnn/Cybermes) | 982 | Python | Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered  |
 | [RevoltSecurities/Subdominator](https://github.com/RevoltSecurities/Subdominator) | 814 | Python | SubDominator helps you discover subdomains associated with a target domain effic |
-| [ZephrFish/BugBountyTemplates](https://github.com/ZephrFish/BugBountyTemplates) | 515 |  | A collection of templates for bug bounty reporting |
+| [ZephrFish/BugBountyTemplates](https://github.com/ZephrFish/BugBountyTemplates) | 514 |  | A collection of templates for bug bounty reporting |
 
 ## 🔧 Developer Utilities
 
 | Repository | ⭐ | Language | Description |
 |---|---:|---|---|
-| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 90,077 | Python | 🕷️ The BEST Web Scraping framework that handles everything from a single request |
-| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 89,674 | TypeScript | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic |
-| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 60,725 | JavaScript | A spy satellite simulator in your browser, except the data is real. Live open so |
-| [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) | 32,289 | Python | Python scraper based on AI |
-| [firecrawl/anydoc](https://github.com/firecrawl/anydoc) | 23,168 | Rust | Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean  |
-| [projectdiscovery/katana](https://github.com/projectdiscovery/katana) | 17,755 | Go | A next-generation crawling and spidering framework. |
-| [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) | 14,669 | Go | Fast passive subdomain enumeration tool. |
-| [daijro/camoufox](https://github.com/daijro/camoufox) | 12,852 | Python | 🦊 Anti-detect browser |
-| [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) | 3,317 | TypeScript | Native local development environment for Windows, macOS & Linux. A modern altern |
-| [lerd-env/lerd](https://github.com/lerd-env/lerd) | 1,450 | Go | Open-source local PHP development environment for Linux, macOS and Windows (WSL2 |
+| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 90,226 | Python | 🕷️ The BEST Web Scraping framework that handles everything from a single request |
+| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 89,721 | TypeScript | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic |
+| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 60,957 | JavaScript | A spy satellite simulator in your browser, except the data is real. Live open so |
+| [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) | 32,316 | Python | Python scraper based on AI |
+| [firecrawl/anydoc](https://github.com/firecrawl/anydoc) | 23,204 | Rust | Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean  |
+| [projectdiscovery/katana](https://github.com/projectdiscovery/katana) | 17,759 | Go | A next-generation crawling and spidering framework. |
+| [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) | 14,675 | Go | Fast passive subdomain enumeration tool. |
+| [daijro/camoufox](https://github.com/daijro/camoufox) | 12,880 | Python | 🦊 Anti-detect browser |
+| [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) | 3,319 | TypeScript | Native local development environment for Windows, macOS & Linux. A modern altern |
+| [lerd-env/lerd](https://github.com/lerd-env/lerd) | 1,461 | Go | Open-source local PHP development environment for Linux, macOS and Windows (WSL2 |
 | [jow4h/URBoard](https://github.com/jow4h/URBoard) | 25 | TypeScript | — |
 | [itzluthfi/edu-pass-generator](https://github.com/itzluthfi/edu-pass-generator) | 3 | Svelte | Open Academic Intelligence Suite, Multi-Entity Data Explorer, and Dynamic Academ |
 
@@ -200,40 +200,40 @@
 
 | Repository | ⭐ | Language | Description |
 |---|---:|---|---|
-| [vianziro/Whatsapp-Dekstop](https://github.com/vianziro/Whatsapp-Dekstop) | 227 | Go | WhatsApp Desk is a fast, ultra-lightweight, privacy-respecting desktop client fo |
-| [karem505/whatRust](https://github.com/karem505/whatRust) | 164 | Rust | whatRust — a lightweight, open-source WhatsApp Web desktop client built with Rus |
+| [vianziro/Whatsapp-Dekstop](https://github.com/vianziro/Whatsapp-Dekstop) | 226 | Go | WhatsApp Desk is a fast, ultra-lightweight, privacy-respecting desktop client fo |
+| [karem505/whatRust](https://github.com/karem505/whatRust) | 166 | Rust | whatRust — a lightweight, open-source WhatsApp Web desktop client built with Rus |
 
 ## 🎮 Fun & Creative
 
 | Repository | ⭐ | Language | Description |
 |---|---:|---|---|
-| [louis-e/arnis](https://github.com/louis-e/arnis) | 18,437 | Rust | Generate any location from the real world in Minecraft with a high level of deta |
-| [EVV1E/waylandcraft](https://github.com/EVV1E/waylandcraft) | 2,984 | Java | Wayland Compositor in Minecraft |
-| [horizon-rust/horizon](https://github.com/horizon-rust/horizon) | 2,978 | Rust | Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against van |
-| [levy-street/world-of-claudecraft](https://github.com/levy-street/world-of-claudecraft) | 2,319 | TypeScript | — |
-| [jeremy-prt/bloub](https://github.com/jeremy-prt/bloub) | 1,875 | TypeScript | SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, mea |
+| [louis-e/arnis](https://github.com/louis-e/arnis) | 18,455 | Rust | Generate any location from the real world in Minecraft with a high level of deta |
+| [horizon-rust/horizon](https://github.com/horizon-rust/horizon) | 3,756 | Rust | Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against van |
+| [EVV1E/waylandcraft](https://github.com/EVV1E/waylandcraft) | 2,987 | Java | Wayland Compositor in Minecraft |
+| [levy-street/world-of-claudecraft](https://github.com/levy-street/world-of-claudecraft) | 2,323 | TypeScript | — |
+| [jeremy-prt/bloub](https://github.com/jeremy-prt/bloub) | 1,878 | TypeScript | SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, mea |
 | [hasanharman/isomiddleearth](https://github.com/hasanharman/isomiddleearth) | 835 | TypeScript | An isometric world‑builder set in Tolkien’s Middle‑earth, where you create and s |
 
 ## ❓ Uncategorized
 
 | Repository | ⭐ | Language | Description |
 |---|---:|---|---|
-| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 400,313 | Python | :books: Freely available programming books |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 263,823 | TypeScript | DeepSeek Harness: Everything is a Plugin. |
-| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 75,648 | C | Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, C |
-| [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | 34,492 | Python | Non-autoregressive System 1 decision engine. Typed choice, score and yes/no deci |
-| [pinojs/pino](https://github.com/pinojs/pino) | 18,270 | JavaScript | 🌲 super fast, all natural json logger |
-| [storytold/pdfcraft](https://github.com/storytold/pdfcraft) | 18,262 | Rust | PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust |
-| [storytold/wordcraft](https://github.com/storytold/wordcraft) | 16,380 | Rust | An open-source, clean-room reimplementation of Microsoft Word in pure Rust |
-| [AhmadHassan-BTed/Turnitout-Humanizer](https://github.com/AhmadHassan-BTed/Turnitout-Humanizer) | 8,431 | HTML | FREE FOREVER, NO LIMITS 100% Programmatic, Zero-AI Plagiarism Remover & Similari |
-| [storytold/gridcraft](https://github.com/storytold/gridcraft) | 6,685 | Rust | GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pur |
-| [storytold/figcraft](https://github.com/storytold/figcraft) | 3,642 | Rust | FigCraft: interface design and prototyping; an open-source, clean-room reimpleme |
-| [aicodeking/leanrea](https://github.com/aicodeking/leanrea) | 3,251 | Python | One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, n |
-| [px0-ai/px0](https://github.com/px0-ai/px0) | 1,911 | Go | px0 is a review workbench and speed-first IDE built for AI-generated code. It tu |
-| [opencoredev/bg0](https://github.com/opencoredev/bg0) | 473 | TypeScript | Private, unlimited background removal that runs in your browser. |
+| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 400,420 | Python | :books: Freely available programming books |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 264,996 | TypeScript | DeepSeek Harness: Everything is a Plugin. |
+| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 75,777 | C | Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, C |
+| [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | 34,575 | Python | Non-autoregressive System 1 decision engine. Typed choice, score and yes/no deci |
+| [storytold/pdfcraft](https://github.com/storytold/pdfcraft) | 18,479 | Rust | PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust |
+| [pinojs/pino](https://github.com/pinojs/pino) | 18,276 | JavaScript | 🌲 super fast, all natural json logger |
+| [storytold/wordcraft](https://github.com/storytold/wordcraft) | 16,488 | Rust | An open-source, clean-room reimplementation of Microsoft Word in pure Rust |
+| [AhmadHassan-BTed/Turnitout-Humanizer](https://github.com/AhmadHassan-BTed/Turnitout-Humanizer) | 9,189 | HTML | FREE FOREVER, NO LIMITS 100% Programmatic, Zero-AI Plagiarism Remover & Similari |
+| [storytold/gridcraft](https://github.com/storytold/gridcraft) | 6,746 | Rust | GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pur |
+| [storytold/figcraft](https://github.com/storytold/figcraft) | 3,743 | Rust | FigCraft: interface design and prototyping; an open-source, clean-room reimpleme |
+| [aicodeking/leanrea](https://github.com/aicodeking/leanrea) | 3,464 | Python | One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, n |
+| [px0-ai/px0](https://github.com/px0-ai/px0) | 1,918 | Go | px0 is a review workbench and speed-first IDE built for AI-generated code. It tu |
+| [opencoredev/bg0](https://github.com/opencoredev/bg0) | 481 | TypeScript | Private, unlimited background removal that runs in your browser. |
 | [komikku-app/komikku-preview](https://github.com/komikku-app/komikku-preview) | 256 |  | — |
-| [lestercorderomurillo/macos-tahoe-liquid-kde](https://github.com/lestercorderomurillo/macos-tahoe-liquid-kde) | 232 | CSS | MacOS Tahoe Liquid Glass Theme for KDE Plasma 6.7/6.8+ |
-| [jitendradara12/omaconnect](https://github.com/jitendradara12/omaconnect) | 44 | QML | Omarchy plugin for native kde-connect integration  |
+| [lestercorderomurillo/macos-tahoe-liquid-kde](https://github.com/lestercorderomurillo/macos-tahoe-liquid-kde) | 238 | CSS | MacOS Tahoe Liquid Glass Theme for KDE Plasma 6.7/6.8+ |
+| [jitendradara12/omaconnect](https://github.com/jitendradara12/omaconnect) | 45 | QML | Omarchy plugin for native kde-connect integration  |
 | [nannndev/ctass](https://github.com/nannndev/ctass) | 18 | JavaScript | — |
 | [yusupsupriyadi/opencompanion](https://github.com/yusupsupriyadi/opencompanion) | 12 | Rust | — |
 | [m4sbay/download-organizer](https://github.com/m4sbay/download-organizer) | 2 | Shell | — |
@@ -245,7 +245,7 @@
 | Metric | Value |
 |---|---|
 | Total starred | 141 |
-| Top language | TypeScript (37 repos) |
+| Top language | TypeScript (36 repos) |
 | Runner-up | Rust (30), Python (18) |
-| Most starred | EbookFoundation/free-programming-books (400,313 ⭐) |
+| Most starred | morluto/rea (403,255 ⭐) |
 | Own repos starred | 0 |
